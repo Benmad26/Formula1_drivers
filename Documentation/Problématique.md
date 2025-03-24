@@ -5,32 +5,32 @@ En adoptant une démarche exploratoire, il s'agit de proposer un modèle du cham
 ## Questions de recherche
 
 
-## 1. Corrélation entre l’origine sociale et l’accès à la Formule 1  
+
 - Y a-t-il une prédominance de certaines origines sociales parmi les pilotes de F1 ?  
 - Comment la barrière financière (coût du karting, des compétitions juniors) façonne-t-elle l’accès à la discipline ?  
 - Les pays d’origine des pilotes ont-ils évolué au fil du temps en fonction des investissements nationaux dans le sport automobile ?  
 
-## 2. Métiers liés à la Formule 1 et caractéristiques socio-démographiques  
+ 
 - Quelles sont les différences de parcours entre les pilotes et les autres acteurs du milieu (ingénieurs, mécaniciens, dirigeants d’écuries) en termes de formation et d’origine sociale ?  
 - Y a-t-il des familles ou des dynasties de pilotes (pères et fils, frères) plus représentées que d’autres ?  
 - Comment les reconversions professionnelles après la carrière de pilote varient-elles selon le statut social du pilote (commentateurs TV, dirigeants, consultants, formateurs) ?  
 
-## 3. Évolution de l’appartenance aux organisations ou structures informelles  
+  
 - Comment l’importance des académies de jeunes pilotes (Ferrari Driver Academy, Red Bull Junior Team) a-t-elle évolué et influencé le profil des pilotes arrivant en F1 ?  
 - Y a-t-il des réseaux ou des écoles qui favorisent l’émergence de certains pilotes (ex. : pilotes issus du karting italien vs. britannique) ?  
 - Quelle est l’influence des sponsors et des financements privés sur la sélection des pilotes ?  
 
-## 4. Relations entre écuries et évolution temporelle  
+
 - Quelles sont les dynamiques entre les différentes écuries en termes de formation et de recrutement des pilotes ?  
 - Observe-t-on des transferts récurrents entre certaines équipes, suggérant des relations privilégiées ?  
 - Y a-t-il une évolution des profils des pilotes en fonction des époques et des stratégies des écuries (pilotes expérimentés vs. jeunes talents) ?  
 
-## 5. Influence des filiations, des relations maître-élève et des hiérarchies  
+ 
 - Comment les relations entre anciens champions et nouvelles générations influencent-elles la carrière des pilotes (mentors, managers, consultants) ?  
 - Y a-t-il des écoles de pilotage ou des académies qui créent des "écoles" de pilotage spécifiques en F1 ?  
 - Les coéquipiers influencent-ils la carrière des pilotes de manière durable (rivalités internes, mentorat) ?  
 
-## 6. Influence des facteurs socio-démographiques sur la sphère médiatique et commerciale  
+  
 - Quels sont les liens entre l’origine géographique des pilotes et leur popularité médiatique et commerciale ?  
 - Comment les sponsors et les grandes marques influencent-ils la carrière des pilotes en fonction de leur nationalité et de leur image ?  
 - Quels types de publications (biographies, documentaires, ouvrages techniques) sont produits autour des pilotes en fonction de leur parcours et de leur notoriété ?  
@@ -39,23 +39,23 @@ En adoptant une démarche exploratoire, il s'agit de proposer un modèle du cham
 
 ## Aspects de l'information à collecter
 
-## 1. Origines géographiques et familiales  
+ 
 - Pays et ville de naissance  
 - Nationalité(s)  
 - Milieu social et origines familiales (famille impliquée dans le sport automobile ou non)  
 - Parents célèbres ou influents dans le sport  
 
-## 2. Formation  
+  
 - Études académiques (si pertinentes)  
 - Formations spécifiques au sport automobile (écoles de karting, académies de jeunes pilotes)  
 - Influence des systèmes nationaux d’entraînement (ex. : la France et la FFSA, le Royaume-Uni et la filière britannique)  
 
-## 3. Enseignement(s) ou transmission du savoir  
+ 
 - Pilotes ayant pris des rôles de mentorat ou d’entraîneur après leur carrière  
 - Engagement dans des écoles de pilotage ou des académies de formation  
 - Influence sur la nouvelle génération de pilotes  
 
-## 4. Autres occupations successives  
+
 - Carrière après la Formule 1 :  
   - Compétitions en Endurance (Le Mans, WEC)  
   - Rallye (WRC, Dakar)  
@@ -64,22 +64,22 @@ En adoptant une démarche exploratoire, il s'agit de proposer un modèle du cham
   - Consultant TV / média  
 - Engagement dans d'autres secteurs (affaires, politique, philanthropie)  
 
-## 5. Activités en dehors de l'activité professionnelle  
+ 
 - Engagements associatifs ou humanitaires  
 - Passion pour d’autres sports (ex. : aviation, golf, cyclisme)  
 - Vie publique et engagements politiques  
 
-## 6. Publications et domaines abordés  
+  
 - Autobiographies et biographies  
 - Livres techniques sur la course et le pilotage  
 - Contributions à des revues spécialisées en sport automobile  
 
-## 7. Appartenance à des institutions et équipes  
+ 
 - Académies et filières de jeunes pilotes (Ferrari Driver Academy, Red Bull Junior Team, etc.)  
 - Écuries de Formule 1 (avec dates et performances)  
 - Clubs et organisations sportives (FIA, associations de pilotes)  
 
-## 8. Correspondances et réseaux  
+ 
 - Relations avec d’autres pilotes (alliances, rivalités)  
 - Influence de certains managers, agents ou mentors  
 - Impact des sponsors et des partenariats financiers sur la carrière  
