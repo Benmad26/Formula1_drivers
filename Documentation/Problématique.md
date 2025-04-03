@@ -20,44 +20,18 @@ En adoptant une démarche exploratoire, il s'agit de proposer un modèle du cham
 - Pays et ville de naissance  
 - Nationalité(s)  
 - Milieu social et origines familiales (famille impliquée dans le sport automobile ou non)  
-- Parents célèbres ou influents dans le sport  
-
-  
+- Parents célèbres ou influents dans le sport   
 - Études académiques (si pertinentes)  
 - Formations spécifiques au sport automobile (écoles de karting, académies de jeunes pilotes)  
 - Influence des systèmes nationaux d’entraînement (ex. : la France et la FFSA, le Royaume-Uni et la filière britannique)  
-
- 
-- Pilotes ayant pris des rôles de mentorat ou d’entraîneur après leur carrière  
-- Engagement dans des écoles de pilotage ou des académies de formation  
-- Influence sur la nouvelle génération de pilotes  
-
-
-- Carrière après la Formule 1 :  
-  - Compétitions en Endurance (Le Mans, WEC)  
-  - Rallye (WRC, Dakar)  
-  - NASCAR, IndyCar, Formule E  
-  - Management d’écuries  
-  - Consultant TV / média  
-- Engagement dans d'autres secteurs (affaires, politique, philanthropie)  
-
- 
 - Engagements associatifs ou humanitaires  
 - Passion pour d’autres sports (ex. : aviation, golf, cyclisme)  
-- Vie publique et engagements politiques  
-
-  
+- Vie publique et engagements politiques   
 - Autobiographies et biographies  
 - Livres techniques sur la course et le pilotage  
-- Contributions à des revues spécialisées en sport automobile  
-
- 
-- Académies et filières de jeunes pilotes (Ferrari Driver Academy, Red Bull Junior Team, etc.)  
+- Contributions à des revues spécialisées en sport automobile   
 - Écuries de Formule 1 (avec dates et performances)  
-- Clubs et organisations sportives (FIA, associations de pilotes)  
+ 
 
  
-- Relations avec d’autres pilotes (alliances, rivalités)  
-- Influence de certains managers, agents ou mentors  
-- Impact des sponsors et des partenariats financiers sur la carrière  
-- Dynamiques entre pilotes d’une même écurie  
+ 
