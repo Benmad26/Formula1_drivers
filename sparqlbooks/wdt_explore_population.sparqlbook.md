@@ -18,3 +18,15 @@ ORDER BY DESC(?nbPilotes)
 
 ```
 
+```sparql
+## Dynasties des pilotes
+SELECT DISTINCT ?famille ?familleLabel ?membreLabel WHERE {
+  ?membre wdt:P106 wd:Q10841764.
+  ?membre (wdt:P3373|wdt:P40|^wdt:P40) ?famille.
+  ?famille wdt:P106 wd:Q10841764.
+  FILTER(?famille != ?membre)
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "fr". }
+}
+ORDER BY ?familleLabel
+```
+
