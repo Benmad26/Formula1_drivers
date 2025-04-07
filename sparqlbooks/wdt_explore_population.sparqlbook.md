@@ -5,6 +5,7 @@ In this notebook, we refine and document the main requests available on the page
 
 When you prepare the queries, you can execute them on the Wikidata SPARQL endpoint, and then document and execute them in this notebook.
 
+Analyse des nationalités
 ```sparql
 ## Analyse quantitative par pays
 SELECT ?paysLabel (COUNT(?pilote) AS ?nbPilotes) WHERE {
@@ -17,6 +18,7 @@ ORDER BY DESC(?nbPilotes)
 
 
 ```
+Analyse des dynasties 
 
 ```sparql
 ## Dynasties des pilotes
