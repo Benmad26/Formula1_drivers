@@ -6,7 +6,7 @@ En adoptant une démarche exploratoire, il s'agit de proposer un modèle du cham
 
 
 
-- Y a-t-il une prédominance de certaines origines sociales parmi les pilotes de F1 ?  
+- Y a-t-il une prédominance de certaines nationalités parmi les pilotes de F1 ?  
 - Quelles sont les différences de parcours entre les pilotes et les autres acteurs du milieu (ingénieurs, mécaniciens, dirigeants d’écuries) en termes de formation et d’origine sociale ?  
 - Y a-t-il des familles ou des dynasties de pilotes (pères et fils, frères) plus représentées que d’autres ?
 - Les écuries influencent-elles le succès des pilotes ?
