@@ -12,9 +12,8 @@ Les propriétés d'une **personne** dans le contexte des **pilotes de F1** pourr
 | **date de naissance**| Date de naissance du pilote (ex. : 07-01-1985)      |
 | **lieu de naissance**| Lieu de naissance du pilote (ex. : Stevenage, Royaume-Uni) |
 | **origine**          | Nationalité (ex. : britannique)                     |
-| **formation**        | Formation scolaire et/ou sportive (ex. : karting)   |
 | **occupation**       | Occupation (ex. : Pilote de F1, ancien pilote, etc.)|
-| **publications**     | Publications ou articles où le pilote est mentionné (si applicable) |
+
 
 
 ---
