@@ -31,4 +31,13 @@ SELECT DISTINCT ?famille ?familleLabel ?membreLabel WHERE {
 }
 ORDER BY ?familleLabel
 ```
+```sparql
+SELECT ?ecurieLabel (COUNT(?gp) AS ?nbVictoires) WHERE {
+  ?gp wdt:P1346 ?pilote.   # Gagnant d'un GP
+  ?pilote wdt:P108 ?ecurie. # Employé par une écurie
 
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "fr". }
+}
+GROUP BY ?ecurieLabel
+ORDER BY DESC(?nbVictoires)
+```
