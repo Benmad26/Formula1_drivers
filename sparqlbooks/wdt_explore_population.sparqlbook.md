@@ -43,6 +43,7 @@ ORDER BY DESC(?nbVictoires)
 ```
 
 
+Explore 
 
 ```sparql
    ## Count and inspect occupations and fields of work
