@@ -81,24 +81,17 @@ WHERE {
 ```
 
 ```sparql
-### Modern astronomers and physicists
+### Recents F+ drivers
 SELECT (count(*) as ?number)
 WHERE {
-    {?item wdt:P106 wd:Q11063}  # astronomer
-    UNION
-    {?item wdt:P101 wd:Q333}     # astronomy
-    UNION
-    {?item wdt:P106 wd:Q169470}  # physicist
-    UNION
-    {?item wdt:P101 wd:Q413}     # physics
-    
-    ?item wdt:P31 wd:Q5; # Any instance of a human.
-            wdt:P569 ?birthDate.
-    
+  ?item wdt:P106 wd:Q10841764;   # Profession : pilote automobile
+        wdt:P31 wd:Q5;           # Instance de : humain
+        wdt:P569 ?birthDate.     # Avec une date de naissance
 
-    BIND(REPLACE(str(?birthDate), "(.*)([0-9]{4})(.*)", "$2") AS ?year)
-    FILTER(xsd:integer(?year) > 1750  && xsd:integer(?year) < 1951 )
+  BIND(REPLACE(str(?birthDate), "(.*)([0-9]{4})(.*)", "$2") AS ?year)
+  FILTER(xsd:integer(?year) > 1970 && xsd:integer(?year) < 2006)
 }
+
 ```
 ### Count how many properties are available for the considered population
 
