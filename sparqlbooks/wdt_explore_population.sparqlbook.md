@@ -67,20 +67,17 @@ Explore
 ```
 
 ```sparql
-### Modern astronomers : born from 1751 onward
+### Modern astronomers : born from 1971 onward
 SELECT (count(*) as ?number)
 WHERE {
-    {?item wdt:P106 wd:Q11063}  # astronomer
-    UNION
-    {?item wdt:P101 wd:Q333}     # astronomy
-    
-    ?item wdt:P31 wd:Q5; # Any instance of a human.
-            wdt:P569 ?birthDate.
-    
+    ?item wdt:P106 wd:Q10841764;  # Profession : pilote de F1
+          wdt:P31 wd:Q5;        # Humain
+          wdt:P569 ?birthDate.  # Date de naissance
 
     BIND(REPLACE(str(?birthDate), "(.*)([0-9]{4})(.*)", "$2") AS ?year)
-    FILTER(xsd:integer(?year) > 1750 )
+    FILTER(xsd:integer(?year) > 1970)
 }
+
 ```
 
 ```sparql
