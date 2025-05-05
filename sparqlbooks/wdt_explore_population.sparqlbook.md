@@ -51,7 +51,7 @@ Explore
     WHERE {
         ?item wdt:P31 wd:Q5;  # Any instance of a human.
 
-            wdt:P106 wd:Q11063  # astronomer 10162
+            wdt:P106 wd:Q10841764. # Métier : pilote de F1
         
             # wdt:P101 wd:Q333  # astronomy 2161
             # wdt:P106 wd:Q169470 # physicist 32123
