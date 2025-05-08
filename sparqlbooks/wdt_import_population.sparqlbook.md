@@ -47,43 +47,38 @@ PREFIX wd: <http://www.wikidata.org/entity/>
 PREFIX wdt: <http://www.wikidata.org/prop/direct/>
 PREFIX wikibase: <http://wikiba.se/ontology#>
 PREFIX bd: <http://www.bigdata.com/rdf#>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 
-CONSTRUCT 
-        {?item  rdfs:label ?itemLabel.
-           ?item wdt:P21 ?gender.
-           ?item wdt:P569 ?year.
-           # ?item  wdt:P31 wd:Q5.
-           # Noter qu'on odifie pour disposer de la propriété standard
-           # pour déclarer l'appartenance d'une instance à une classe
-           ?item  rdf:type wd:Q5. }
-        
-        WHERE {
+CONSTRUCT {
+  ?item rdfs:label ?itemLabel.
+  ?item wdt:P21 ?gender.
+  ?item wdt:P569 ?year.
+  ?item rdf:type wd:Q5.  # Type humain
+}
+WHERE {
+  SERVICE <https://query.wikidata.org/sparql> {
+    {
+      ?item wdt:P106 wd:Q169643.
+    }
+    UNION
+    {
+      ?item wdt:P106 wd:Q10841764.
+    }
 
-        ## note the service address            
-        SERVICE <https://query.wikidata.org/sparql>
-            {
-            {?item wdt:P106 wd:Q11063}  # astronomer
-            UNION
-            {?item wdt:P101 wd:Q333}     # astronomy
-            UNION
-            {?item wdt:P106 wd:Q169470}  # physicist
-            UNION
-            {?item wdt:P101 wd:Q413}     # physics   
-          
-            ?item wdt:P31 wd:Q5;  # Any instance of a human.
-                wdt:P569 ?birthDate;
-                wdt:P21 ?gender.
-        BIND(year(?birthDate) as ?year)
-        #BIND(xsd:integer(REPLACE(str(?birthDate), "(.*)([0-9]{4})(.*)", "$2")) AS ?year)
-        FILTER(?year > 1750  && ?year < 2001) 
+    ?item wdt:P31 wd:Q5;
+          wdt:P569 ?birthDate;
+          wdt:P21 ?gender.
 
-        ## Add this clause in order to fill the variable      
-        BIND ( ?itemLabel as ?itemLabel)
-        SERVICE wikibase:label { bd:serviceParam wikibase:language "en" }   
-        }
-        }
-        LIMIT 5
+    BIND(YEAR(?birthDate) AS ?year)
+    FILTER(?year > 1949 && ?year < 2006)
     
+    BIND ( ?itemLabel as ?itemLabel)
+    SERVICE wikibase:label { bd:serviceParam wikibase:language "en" }
+  }
+}
+LIMIT 5
+
 
 ```
 ### Import the triples into a dedicated graph
