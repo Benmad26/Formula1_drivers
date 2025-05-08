@@ -8,32 +8,25 @@ The SPARQL queries are to be executed on the Allegrograph SPARQL Endpoint:
 First we check the basic properties of the population: name, sex, year of birth.
 
 ```sparql
-PREFIX wd: <http://www.wikidata.org/entity/>
-PREFIX wdt: <http://www.wikidata.org/prop/direct/>
-PREFIX wikibase: <http://wikiba.se/ontology#>
-PREFIX bd: <http://www.bigdata.com/rdf#>
-
 SELECT DISTINCT ?item ?itemLabel ?genderLabel ?year
 WHERE {
-
-  ## note the service address            
-  SERVICE <https://query.wikidata.org/sparql> 
-  {
+  SERVICE <https://query.wikidata.org/sparql> {
     {
-      ?item wdt:P106 wd:Q169643   # Pilote de Formule 1
+      ?item wdt:P106 wd:Q169643.      # Pilote de Formule 1
     }
     UNION
     {
-      ?item wdt:P106 wd:Q10841764  # Pilote automobile
+      ?item wdt:P106 wd:Q10841764.   # Pilote automobile
     }
 
-    ?item wdt:P31 wd:Q5;        # Instance of: human
+    ?item wdt:P31 wd:Q5;              # Humain
           wdt:P569 ?birthDate;
           wdt:P21 ?gender.
 
     BIND(YEAR(?birthDate) AS ?year)
-    FILTER(xsd:integer(?year) > 1949 && xsd:integer(?year) < 2006)
-
+    FILTER(?year > 1949 && ?year < 2006)
+    
+    BIND ( ?itemLabel as ?itemLabel)
     SERVICE wikibase:label { bd:serviceParam wikibase:language "en" }
   }
 }
