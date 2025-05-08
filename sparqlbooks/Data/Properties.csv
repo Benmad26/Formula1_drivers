@@ -1,0 +1,354 @@
+p,propLabel,eff
+http://www.wikidata.org/prop/direct/P106,occupation,745
+http://www.wikidata.org/prop/direct/P1350,number of matches played/races/starts,581
+http://www.wikidata.org/prop/direct/P641,sport,414
+http://www.wikidata.org/prop/direct/P1344,participant in,414
+http://www.wikidata.org/prop/direct/P735,given name,364
+http://www.wikidata.org/prop/direct/P27,country of citizenship,340
+http://www.wikidata.org/prop/direct/P21,sex or gender,327
+http://www.wikidata.org/prop/direct/P31,instance of,327
+http://www.wikidata.org/prop/direct/P569,date of birth,327
+http://www.wikidata.org/prop/direct/P19,place of birth,324
+http://www.wikidata.org/prop/direct/P1412,"languages spoken, written or signed",323
+http://www.wikidata.org/prop/direct/P1358,points for,316
+http://www.wikidata.org/prop/direct/P3684,Driver Database driver ID,316
+http://www.wikidata.org/prop/direct/P1355,number of wins,314
+http://www.wikidata.org/prop/direct/P10640,pole positions,314
+http://www.wikidata.org/prop/direct/P10648,podium finishes,314
+http://www.wikidata.org/prop/direct/P373,Commons category,311
+http://www.wikidata.org/prop/direct/P734,family name,310
+http://www.wikidata.org/prop/direct/P646,Freebase ID,304
+http://www.wikidata.org/prop/direct/P18,image,292
+http://www.wikidata.org/prop/direct/P3048,Racing-Reference driver ID,236
+http://www.wikidata.org/prop/direct/P8140,motorsportstats.com driver ID,220
+http://www.wikidata.org/prop/direct/P54,member of sports team,208
+http://www.wikidata.org/prop/direct/P2522,competition won,181
+http://www.wikidata.org/prop/direct/P856,official website,164
+http://www.wikidata.org/prop/direct/P2002,X (Twitter) username,155
+http://www.wikidata.org/prop/direct/P5421,Trading Card Database person ID,147
+http://www.wikidata.org/prop/direct/P935,Commons gallery,133
+http://www.wikidata.org/prop/direct/P8687,social media followers,132
+http://www.wikidata.org/prop/direct/P910,topic's main category,131
+http://www.wikidata.org/prop/direct/P1285,Munzinger Sport number,123
+http://www.wikidata.org/prop/direct/P2003,Instagram username,114
+http://www.wikidata.org/prop/direct/P214,VIAF cluster ID,110
+http://www.wikidata.org/prop/direct/P1559,name in native language,98
+http://www.wikidata.org/prop/direct/P3368,Prabook ID,98
+http://www.wikidata.org/prop/direct/P166,award received,93
+http://www.wikidata.org/prop/direct/P1477,birth name,81
+http://www.wikidata.org/prop/direct/P244,Library of Congress authority ID,75
+http://www.wikidata.org/prop/direct/P345,IMDb ID,72
+http://www.wikidata.org/prop/direct/P2013,Facebook username,68
+http://www.wikidata.org/prop/direct/P1532,country for sport,67
+http://www.wikidata.org/prop/direct/P69,educated at,65
+http://www.wikidata.org/prop/direct/P10832,WorldCat Entities ID,61
+http://www.wikidata.org/prop/direct/P2048,height,59
+http://www.wikidata.org/prop/direct/P6262,Fandom article ID,57
+http://www.wikidata.org/prop/direct/P103,native language,56
+http://www.wikidata.org/prop/direct/P213,ISNI,54
+http://www.wikidata.org/prop/direct/P4985,TMDB person ID,50
+http://www.wikidata.org/prop/direct/P40,child,47
+http://www.wikidata.org/prop/direct/P227,GND ID,45
+http://www.wikidata.org/prop/direct/P3427,AS.com athlete ID,44
+http://www.wikidata.org/prop/direct/P22,father,41
+http://www.wikidata.org/prop/direct/P1038,relative,41
+http://www.wikidata.org/prop/direct/P2600,Geni.com profile ID,38
+http://www.wikidata.org/prop/direct/P2067,mass,37
+http://www.wikidata.org/prop/direct/P3373,sibling,35
+http://www.wikidata.org/prop/direct/P1368,National Library of Latvia ID,34
+http://www.wikidata.org/prop/direct/P1741,GTAA ID,31
+http://www.wikidata.org/prop/direct/P3927,eWRC-results.com racer ID,31
+http://www.wikidata.org/prop/direct/P5247,Giant Bomb ID,30
+http://www.wikidata.org/prop/direct/P2163,FAST ID,29
+http://www.wikidata.org/prop/direct/P4342,Store norske leksikon (Great Norwegian Encyclopedia) ID,29
+http://www.wikidata.org/prop/direct/P10302,Film.ru person ID,27
+http://www.wikidata.org/prop/direct/P12098,Kinobox person ID,27
+http://www.wikidata.org/prop/direct/P3417,Quora topic ID,26
+http://www.wikidata.org/prop/direct/P101,field of work,25
+http://www.wikidata.org/prop/direct/P11194,Famous Birthdays ID,25
+http://www.wikidata.org/prop/direct/P551,residence,24
+http://www.wikidata.org/prop/direct/P5297,Companies House officer ID,24
+http://www.wikidata.org/prop/direct/P26,spouse,23
+http://www.wikidata.org/prop/direct/P2671,Google Knowledge Graph ID,23
+http://www.wikidata.org/prop/direct/P20,place of death,21
+http://www.wikidata.org/prop/direct/P1814,name in kana,21
+http://www.wikidata.org/prop/direct/P349,NDL Authority ID,20
+http://www.wikidata.org/prop/direct/P268,Bibliothèque nationale de France ID,19
+http://www.wikidata.org/prop/direct/P570,date of death,19
+http://www.wikidata.org/prop/direct/P1819,genealogics.org person ID,19
+http://www.wikidata.org/prop/direct/P2605,ČSFD person ID,19
+http://www.wikidata.org/prop/direct/P691,NL CR AUT ID,18
+http://www.wikidata.org/prop/direct/P3883,Red Bull athlete ID,18
+http://www.wikidata.org/prop/direct/P1449,nickname,17
+http://www.wikidata.org/prop/direct/P109,signature,16
+http://www.wikidata.org/prop/direct/P2397,YouTube channel ID,16
+http://www.wikidata.org/prop/direct/P4666,CineMagia person ID,16
+http://www.wikidata.org/prop/direct/P8313,Lex ID,16
+http://www.wikidata.org/prop/direct/P396,SBN author ID,15
+http://www.wikidata.org/prop/direct/P434,MusicBrainz artist ID,15
+http://www.wikidata.org/prop/direct/P3219,Encyclopædia Universalis ID,15
+http://www.wikidata.org/prop/direct/P8161,Italian National Olympic Committee honored athlete ID,15
+http://www.wikidata.org/prop/direct/P451,unmarried partner,14
+http://www.wikidata.org/prop/direct/P859,sponsor,14
+http://www.wikidata.org/prop/direct/P1617,BBC Things ID,14
+http://www.wikidata.org/prop/direct/P1853,blood type,14
+http://www.wikidata.org/prop/direct/P1950,second family name in Spanish name,14
+http://www.wikidata.org/prop/direct/P9139,first family name in Portuguese name,14
+http://www.wikidata.org/prop/direct/P1263,Notable Names Database ID,13
+http://www.wikidata.org/prop/direct/P7502,Golden ID,13
+http://www.wikidata.org/prop/direct/P108,employer,12
+http://www.wikidata.org/prop/direct/P1889,different from,12
+http://www.wikidata.org/prop/direct/P5019,Brockhaus Enzyklopädie online ID,12
+http://www.wikidata.org/prop/direct/P7293,National Library of Poland MMS ID,12
+http://www.wikidata.org/prop/direct/P7929,Roglo person ID,12
+http://www.wikidata.org/prop/direct/P11408,Pixiv Encyclopedia ID,12
+http://www.wikidata.org/prop/direct/P13049,DDB person (GND) ID,12
+http://www.wikidata.org/prop/direct/P25,mother,11
+http://www.wikidata.org/prop/direct/P119,place of burial,11
+http://www.wikidata.org/prop/direct/P509,cause of death,11
+http://www.wikidata.org/prop/direct/P7902,Deutsche Biographie (GND) ID,11
+http://www.wikidata.org/prop/direct/P269,IdRef ID,10
+http://www.wikidata.org/prop/direct/P1296,Gran Enciclopèdia Catalana ID (former scheme),10
+http://www.wikidata.org/prop/direct/P1971,number of children,10
+http://www.wikidata.org/prop/direct/P3222,NE.se ID,10
+http://www.wikidata.org/prop/direct/P3365,Treccani ID,10
+http://www.wikidata.org/prop/direct/P6640,JRC Names ID,10
+http://www.wikidata.org/prop/direct/P12385,Gran Enciclopèdia Catalana ID,10
+http://www.wikidata.org/prop/direct/P1411,nominated for,9
+http://www.wikidata.org/prop/direct/P2924,Great Russian Encyclopedia Online ID (old version),9
+http://www.wikidata.org/prop/direct/P7305,Online PWN Encyclopedia ID,9
+http://www.wikidata.org/prop/direct/P8309,Yle topic ID,9
+http://www.wikidata.org/prop/direct/P9346,France 24 topic ID (French),9
+http://www.wikidata.org/prop/direct/P97,noble title,8
+http://www.wikidata.org/prop/direct/P172,ethnic group,8
+http://www.wikidata.org/prop/direct/P463,member of,8
+http://www.wikidata.org/prop/direct/P950,National Library of Spain SpMaBN ID (BNE v1.0),8
+http://www.wikidata.org/prop/direct/P1006,Nationale Thesaurus voor Auteursnamen ID,8
+http://www.wikidata.org/prop/direct/P1050,medical condition,8
+http://www.wikidata.org/prop/direct/P1343,described by source,8
+http://www.wikidata.org/prop/direct/P1695,NLP ID (old),8
+http://www.wikidata.org/prop/direct/P2416,sports discipline competed in,8
+http://www.wikidata.org/prop/direct/P2949,WikiTree person ID,8
+http://www.wikidata.org/prop/direct/P5617,Evene ID,8
+http://www.wikidata.org/prop/direct/P39,position held,7
+http://www.wikidata.org/prop/direct/P1417,Encyclopædia Britannica Online ID,7
+http://www.wikidata.org/prop/direct/P2031,work period (start),7
+http://www.wikidata.org/prop/direct/P12086,WikiKids ID,7
+http://www.wikidata.org/prop/direct/P140,religion or worldview,6
+http://www.wikidata.org/prop/direct/P535,Find a Grave memorial ID,6
+http://www.wikidata.org/prop/direct/P1196,manner of death,6
+http://www.wikidata.org/prop/direct/P1207,NUKAT ID,6
+http://www.wikidata.org/prop/direct/P1618,sport number,6
+http://www.wikidata.org/prop/direct/P5361,BNB person ID,6
+http://www.wikidata.org/prop/direct/P6758,supported sports team,6
+http://www.wikidata.org/prop/direct/P8094,GeneaStar person ID,6
+http://www.wikidata.org/prop/direct/P9984,CANTIC ID,6
+http://www.wikidata.org/prop/direct/P10242,Lur Encyclopedic Dictionary ID,6
+http://www.wikidata.org/prop/direct/P10632,OpenSanctions ID,6
+http://www.wikidata.org/prop/direct/P11137,Reddit topic ID,6
+http://www.wikidata.org/prop/direct/P11686,University of Barcelona authority ID,6
+http://www.wikidata.org/prop/direct/P12153,FilmAffinity person ID,6
+http://www.wikidata.org/prop/direct/P443,pronunciation audio,5
+http://www.wikidata.org/prop/direct/P742,pseudonym,5
+http://www.wikidata.org/prop/direct/P1019,web feed URL,5
+http://www.wikidata.org/prop/direct/P1442,image of grave,5
+http://www.wikidata.org/prop/direct/P1816,National Portrait Gallery (London) person ID,5
+http://www.wikidata.org/prop/direct/P3579,Weibo user ID,5
+http://www.wikidata.org/prop/direct/P6706,De Agostini ID,5
+http://www.wikidata.org/prop/direct/P8179,Canadiana Name Authority ID,5
+http://www.wikidata.org/prop/direct/P9743,Podchaser creator ID,5
+http://www.wikidata.org/prop/direct/P271,NACSIS-CAT author ID,4
+http://www.wikidata.org/prop/direct/P1015,NORAF ID,4
+http://www.wikidata.org/prop/direct/P1185,Rodovid ID,4
+http://www.wikidata.org/prop/direct/P1273,CANTIC ID (former scheme),4
+http://www.wikidata.org/prop/direct/P1315,NLA Trove people ID,4
+http://www.wikidata.org/prop/direct/P1830,owner of,4
+http://www.wikidata.org/prop/direct/P1953,Discogs artist ID,4
+http://www.wikidata.org/prop/direct/P3284,Yahoo! JAPAN Talent Database ID,4
+http://www.wikidata.org/prop/direct/P3477,Nihon Tarento Meikan ID,4
+http://www.wikidata.org/prop/direct/P3846,DBC author ID,4
+http://www.wikidata.org/prop/direct/P4789,Who's Who UK ID,4
+http://www.wikidata.org/prop/direct/P6621,Le Figaro tag ID,4
+http://www.wikidata.org/prop/direct/P6682,Motorsports Hall of Fame of America ID,4
+http://www.wikidata.org/prop/direct/P6900,NicoNicoPedia ID,4
+http://www.wikidata.org/prop/direct/P8349,Proleksis enciklopedija ID,4
+http://www.wikidata.org/prop/direct/P8672,X topic ID,4
+http://www.wikidata.org/prop/direct/P9368,CNA topic ID,4
+http://www.wikidata.org/prop/direct/P10826,Talent Data Bank ID,4
+http://www.wikidata.org/prop/direct/P11496,CiNii Research ID,4
+http://www.wikidata.org/prop/direct/P12800,Vikidia article ID,4
+http://www.wikidata.org/prop/direct/P53,family,3
+http://www.wikidata.org/prop/direct/P648,Open Library ID,3
+http://www.wikidata.org/prop/direct/P793,significant event,3
+http://www.wikidata.org/prop/direct/P1258,Rotten Tomatoes ID,3
+http://www.wikidata.org/prop/direct/P1280,CONOR.SI ID,3
+http://www.wikidata.org/prop/direct/P1303,instrument,3
+http://www.wikidata.org/prop/direct/P2032,work period (end),3
+http://www.wikidata.org/prop/direct/P3065,RERO ID (legacy),3
+http://www.wikidata.org/prop/direct/P3280,BAnQ authority ID,3
+http://www.wikidata.org/prop/direct/P3509,Dagens Nyheter topic ID,3
+http://www.wikidata.org/prop/direct/P3630,Babelio author ID,3
+http://www.wikidata.org/prop/direct/P4638,The Peerage person ID,3
+http://www.wikidata.org/prop/direct/P5008,on focus list of Wikimedia project,3
+http://www.wikidata.org/prop/direct/P5337,Google News topics ID,3
+http://www.wikidata.org/prop/direct/P5395,Canadian Encyclopedia article ID,3
+http://www.wikidata.org/prop/direct/P5797,Twitch username,3
+http://www.wikidata.org/prop/direct/P5254,FilmTv.it person ID,3
+http://www.wikidata.org/prop/direct/P6424,affiliation string,3
+http://www.wikidata.org/prop/direct/P6886,writing language,3
+http://www.wikidata.org/prop/direct/P8017,generational suffix,3
+http://www.wikidata.org/prop/direct/P8189,J9U ID,3
+http://www.wikidata.org/prop/direct/P9058,Fichier des personnes décédées ID (matchID),3
+http://www.wikidata.org/prop/direct/P9995,MYmovies person ID,3
+http://www.wikidata.org/prop/direct/P10234,Der Spiegel topic ID,3
+http://www.wikidata.org/prop/direct/P10553,IxTheo authority ID,3
+http://www.wikidata.org/prop/direct/P10780,Radio France person ID,3
+http://www.wikidata.org/prop/direct/P10916,Süddeutsche Zeitung topic ID,3
+http://www.wikidata.org/prop/direct/P11386,Listal ID,3
+http://www.wikidata.org/prop/direct/P12582,Oxford Reference overview ID,3
+http://www.wikidata.org/prop/direct/P118,league or competition,2
+http://www.wikidata.org/prop/direct/P409,Libraries Australia ID,2
+http://www.wikidata.org/prop/direct/P511,honorific prefix,2
+http://www.wikidata.org/prop/direct/P552,handedness,2
+http://www.wikidata.org/prop/direct/P898,IPA transcription,2
+http://www.wikidata.org/prop/direct/P1266,AlloCiné person ID,2
+http://www.wikidata.org/prop/direct/P1712,Metacritic ID,2
+http://www.wikidata.org/prop/direct/P1884,hair color,2
+http://www.wikidata.org/prop/direct/P2168,Swedish Film Database person ID,2
+http://www.wikidata.org/prop/direct/P2387,Elonet person ID,2
+http://www.wikidata.org/prop/direct/P2572,hashtag,2
+http://www.wikidata.org/prop/direct/P2604,Kinopoisk person ID,2
+http://www.wikidata.org/prop/direct/P2639,Filmportal ID,2
+http://www.wikidata.org/prop/direct/P3204,Ciné-Ressources person ID,2
+http://www.wikidata.org/prop/direct/P3388,LittleSis people ID,2
+http://www.wikidata.org/prop/direct/P3553,Zhihu topic ID,2
+http://www.wikidata.org/prop/direct/P3706,RITVA Person ID,2
+http://www.wikidata.org/prop/direct/P4124,Who's Who in France biography ID,2
+http://www.wikidata.org/prop/direct/P4416,Quebec Sports Hall of Fame ID,2
+http://www.wikidata.org/prop/direct/P4527,UK Parliament thesaurus ID,2
+http://www.wikidata.org/prop/direct/P4619,National Library of Brazil ID,2
+http://www.wikidata.org/prop/direct/P4768,cinematografo.it name or company ID,2
+http://www.wikidata.org/prop/direct/P4782,Movieplayer person ID,2
+http://www.wikidata.org/prop/direct/P4854,Uppslagsverket Finland ID,2
+http://www.wikidata.org/prop/direct/P5007,Behind The Voice Actors person ID,2
+http://www.wikidata.org/prop/direct/P5056,patronym or matronym,2
+http://www.wikidata.org/prop/direct/P5513,Enciclopèdia de l'Esport Català ID,2
+http://www.wikidata.org/prop/direct/P5882,Muziekweb performer ID,2
+http://www.wikidata.org/prop/direct/P6058,Larousse ID,2
+http://www.wikidata.org/prop/direct/P6683,Alexander Turnbull Library ID,2
+http://www.wikidata.org/prop/direct/P6777,Danskefilmstemmer.dk person ID,2
+http://www.wikidata.org/prop/direct/P7349,Gazetteer for Scotland person ID,2
+http://www.wikidata.org/prop/direct/P7666,Visuotinė lietuvių enciklopedija ID,2
+http://www.wikidata.org/prop/direct/P7972,CVR person ID,2
+http://www.wikidata.org/prop/direct/P7982,Hrvatska enciklopedija ID,2
+http://www.wikidata.org/prop/direct/P8081,WBIS ID,2
+http://www.wikidata.org/prop/direct/P8286,Olympedia people ID,2
+http://www.wikidata.org/prop/direct/P9352,Portrait Archive ID,2
+http://www.wikidata.org/prop/direct/P9404,OFDb person ID,2
+http://www.wikidata.org/prop/direct/P11120,Rai Teche person ID,2
+http://www.wikidata.org/prop/direct/P11345,Cinematografo.it name or company ID (new),2
+http://www.wikidata.org/prop/direct/P66,ancestral home,1
+http://www.wikidata.org/prop/direct/P94,coat of arms image,1
+http://www.wikidata.org/prop/direct/P102,member of political party,1
+http://www.wikidata.org/prop/direct/P138,named after,1
+http://www.wikidata.org/prop/direct/P154,logo image,1
+http://www.wikidata.org/prop/direct/P906,SELIBR ID,1
+http://www.wikidata.org/prop/direct/P973,described at URL,1
+http://www.wikidata.org/prop/direct/P1142,political ideology,1
+http://www.wikidata.org/prop/direct/P1151,topic's main Wikimedia portal,1
+http://www.wikidata.org/prop/direct/P1268,represents,1
+http://www.wikidata.org/prop/direct/P1284,Munzinger person ID,1
+http://www.wikidata.org/prop/direct/P1327,partner in business or sport,1
+http://www.wikidata.org/prop/direct/P1340,eye color,1
+http://www.wikidata.org/prop/direct/P1375,NSK ID,1
+http://www.wikidata.org/prop/direct/P1399,convicted of,1
+http://www.wikidata.org/prop/direct/P1409,Cycling Archives cyclist ID,1
+http://www.wikidata.org/prop/direct/P1580,University of Barcelona authority ID (former scheme),1
+http://www.wikidata.org/prop/direct/P1576,lifestyle,1
+http://www.wikidata.org/prop/direct/P1670,Canadiana Authorities ID (former scheme),1
+http://www.wikidata.org/prop/direct/P1902,Spotify artist ID,1
+http://www.wikidata.org/prop/direct/P1977,Les Archives du spectacle person ID,1
+http://www.wikidata.org/prop/direct/P2015,Hansard (1803–2005) ID,1
+http://www.wikidata.org/prop/direct/P2019,AllMovie person ID,1
+http://www.wikidata.org/prop/direct/P2180,Kansallisbiografia ID,1
+http://www.wikidata.org/prop/direct/P2318,debut participant,1
+http://www.wikidata.org/prop/direct/P2389,organization directed by the office or position,1
+http://www.wikidata.org/prop/direct/P2435,PORT person ID,1
+http://www.wikidata.org/prop/direct/P2626,Danish National Filmography person ID,1
+http://www.wikidata.org/prop/direct/P2650,interested in,1
+http://www.wikidata.org/prop/direct/P2722,Deezer artist ID,1
+http://www.wikidata.org/prop/direct/P2847,Google+ ID (archived),1
+http://www.wikidata.org/prop/direct/P2850,Apple Music artist ID (U.S. version),1
+http://www.wikidata.org/prop/direct/P2868,subject has role,1
+http://www.wikidata.org/prop/direct/P2984,Snapchat username,1
+http://www.wikidata.org/prop/direct/P3040,SoundCloud ID,1
+http://www.wikidata.org/prop/direct/P3106,Guardian topic ID,1
+http://www.wikidata.org/prop/direct/P3185,VK username,1
+http://www.wikidata.org/prop/direct/P3265,Myspace ID,1
+http://www.wikidata.org/prop/direct/P3342,significant person,1
+http://www.wikidata.org/prop/direct/P3348,National Library of Greece ID,1
+http://www.wikidata.org/prop/direct/P3448,stepparent,1
+http://www.wikidata.org/prop/direct/P3478,Songkick artist ID,1
+http://www.wikidata.org/prop/direct/P3502,Ameblo username,1
+http://www.wikidata.org/prop/direct/P3716,social classification,1
+http://www.wikidata.org/prop/direct/P3789,Telegram username,1
+http://www.wikidata.org/prop/direct/P3913,MobyGames person ID,1
+http://www.wikidata.org/prop/direct/P3930,Rallye-info.com driver or co-driver ID,1
+http://www.wikidata.org/prop/direct/P3928,MotoGP racer ID,1
+http://www.wikidata.org/prop/direct/P3949,Juwra.com ID,1
+http://www.wikidata.org/prop/direct/P3973,PIM authority ID,1
+http://www.wikidata.org/prop/direct/P3980,Unifrance person ID,1
+http://www.wikidata.org/prop/direct/P3984,subreddit,1
+http://www.wikidata.org/prop/direct/P4159,WeRelate person ID,1
+http://www.wikidata.org/prop/direct/P4359,gravsted.dk ID,1
+http://www.wikidata.org/prop/direct/P4398,Canada's Sports Hall of Fame athlete ID,1
+http://www.wikidata.org/prop/direct/P4431,Google Doodle,1
+http://www.wikidata.org/prop/direct/P4438,"BFI Films, TV and people ID",1
+http://www.wikidata.org/prop/direct/P4440,Biblioteca Nacional de México ID,1
+http://www.wikidata.org/prop/direct/P4779,MYmovies actor ID (former scheme),1
+http://www.wikidata.org/prop/direct/P4939,VERIF ID,1
+http://www.wikidata.org/prop/direct/P5034,National Library of Korea ID,1
+http://www.wikidata.org/prop/direct/P5298,Webb-site person ID,1
+http://www.wikidata.org/prop/direct/P5340,American Film Institute person ID,1
+http://www.wikidata.org/prop/direct/P5587,Libris-URI,1
+http://www.wikidata.org/prop/direct/P5796,Internet Game Database person ID (archived),1
+http://www.wikidata.org/prop/direct/P6200,BBC News topic ID,1
+http://www.wikidata.org/prop/direct/P6213,UK Parliament ID,1
+http://www.wikidata.org/prop/direct/P6235,Académie royale de Belgique member ID,1
+http://www.wikidata.org/prop/direct/P6327,Goodreads character ID,1
+http://www.wikidata.org/prop/direct/P6394,ELNET ID,1
+http://www.wikidata.org/prop/direct/P6488,Enciclopedia delle donne ID,1
+http://www.wikidata.org/prop/direct/P6544,total points in career,1
+http://www.wikidata.org/prop/direct/P6573,Klexikon article ID,1
+http://www.wikidata.org/prop/direct/P6723,BlackPast.org ID,1
+http://www.wikidata.org/prop/direct/P6849,DR topic ID,1
+http://www.wikidata.org/prop/direct/P6908,Cameo ID,1
+http://www.wikidata.org/prop/direct/P7029,National Library of Russia ID,1
+http://www.wikidata.org/prop/direct/P7157,The Top Tens ID,1
+http://www.wikidata.org/prop/direct/P7369,National Library of Chile ID,1
+http://www.wikidata.org/prop/direct/P7550,Paralympic.org sportsperson ID,1
+http://www.wikidata.org/prop/direct/P8125,Fandango person ID,1
+http://www.wikidata.org/prop/direct/P8816,Dzen ID,1
+http://www.wikidata.org/prop/direct/P8854,Salzburgwiki ID,1
+http://www.wikidata.org/prop/direct/P8852,facial hair,1
+http://www.wikidata.org/prop/direct/P8980,KANTO ID,1
+http://www.wikidata.org/prop/direct/P9113,Patrinum ID,1
+http://www.wikidata.org/prop/direct/P9129,Data Collection of the Hungarian Peerage ID,1
+http://www.wikidata.org/prop/direct/P9324,BiographySampo person ID,1
+http://www.wikidata.org/prop/direct/P9510,Forbes Russia profile ID,1
+http://www.wikidata.org/prop/direct/P9629,Armeniapedia ID,1
+http://www.wikidata.org/prop/direct/P9775,Treccani's Lessico del XXI Secolo ID,1
+http://www.wikidata.org/prop/direct/P9807,SNK ID,1
+http://www.wikidata.org/prop/direct/P10266,AdoroCinema person ID,1
+http://www.wikidata.org/prop/direct/P10428,parliament.uk member ID,1
+http://www.wikidata.org/prop/direct/P10565,Encyclopedia of China (Third Edition) ID,1
+http://www.wikidata.org/prop/direct/P10823,fastest laps,1
+http://www.wikidata.org/prop/direct/P10849,Beamish peerage database person ID,1
+http://www.wikidata.org/prop/direct/P11020,UCI rider ID,1
+http://www.wikidata.org/prop/direct/P11158,Dimitri and Aliki Perrotis Central Library ID,1
+http://www.wikidata.org/prop/direct/P11196,Baidu Tieba name,1
+http://www.wikidata.org/prop/direct/P11892,Threads username,1
+http://www.wikidata.org/prop/direct/P12458,Parsifal cluster ID,1
+http://www.wikidata.org/prop/direct/P13019,RedBA Granada authority ID,1
+http://www.wikidata.org/prop/direct/P13226,Hessian Biography person (GND) ID,1
+http://www.wikidata.org/prop/direct/P13457,Ordre national du Québec ID,1
