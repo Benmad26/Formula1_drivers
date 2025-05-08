@@ -59,13 +59,12 @@ CONSTRUCT {
 WHERE {
   SERVICE <https://query.wikidata.org/sparql> {
     {
-      ?item wdt:P106 wd:Q169643.
+      ?item wdt:P106 wd:Q169643.      # Pilote de Formule 1
     }
     UNION
     {
-      ?item wdt:P106 wd:Q10841764.
+      ?item wdt:P106 wd:Q10841764.   # Pilote automobile
     }
-
     ?item wdt:P31 wd:Q5;
           wdt:P569 ?birthDate;
           wdt:P21 ?gender.
@@ -120,15 +119,14 @@ INSERT {
         WHERE {
 
         ## please note the service address            
-        SERVICE <https://query.wikidata.org/sparql>
-            {
-            {?item wdt:P106 wd:Q11063}  # astronomer
-            UNION
-            {?item wdt:P101 wd:Q333}     # astronomy
-            UNION
-            {?item wdt:P106 wd:Q169470}  # physicist
-            UNION
-            {?item wdt:P101 wd:Q413}     # physics   
+          SERVICE <https://query.wikidata.org/sparql> {
+          {
+          ?item wdt:P106 wd:Q169643.      # Pilote de Formule 1
+          }
+          UNION
+          {
+            ?item wdt:P106 wd:Q10841764.   # Pilote automobile
+          } 
           
             ?item wdt:P31 wd:Q5;  # Any instance of a human.
                 wdt:P569 ?birthDate;
