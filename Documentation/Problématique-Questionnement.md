@@ -6,11 +6,9 @@ En adoptant une démarche exploratoire, il s'agit de proposer un modèle du cham
 
 
 
-- Y a-t-il une prédominance de certaines nationalités parmi les pilotes de F1 ?  
-- Quelles sont les différences de parcours entre les pilotes et les autres acteurs du milieu (ingénieurs, mécaniciens, dirigeants d’écuries) en termes de formation et d’origine sociale ?  
-- Y a-t-il des familles ou des dynasties de pilotes (pères et fils, frères) plus représentées que d’autres ?
-- Les écuries influencent-elles le succès des pilotes ?
-- Comment les sponsors et les grandes marques influencent-ils la carrière des pilotes en fonction de leur nationalité et de leur image ?  
+1. Quelle est la répartition des effectifs de naissance par lieu d’origine ?  
+2. Quelle est la distribution spatiale des naissances (carte choroplèthe) ?  
+3. Comment cette distribution géographique évolue-t-elle dans le temps ?  
 
 
 
