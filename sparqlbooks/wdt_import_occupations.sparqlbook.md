@@ -994,3 +994,42 @@ WHERE
 
 
 ```
+```sparql
+PREFIX wd:   <http://www.wikidata.org/entity/>
+PREFIX wdt:  <http://www.wikidata.org/prop/direct/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX xsd:  <http://www.w3.org/2001/XMLSchema#>
+
+SELECT
+  ?personUri
+  (SAMPLE(?personLabel) AS ?personLabel)
+  (xsd:integer(SUBSTR(STR(SAMPLE(?birthDate)),1,4)) AS ?birthYear)
+  (GROUP_CONCAT(DISTINCT ?genderLabel;   separator=", ") AS ?genderLabels)
+  (GROUP_CONCAT(DISTINCT ?countryLabel;  separator=", ") AS ?countryLabels)
+  (GROUP_CONCAT(DISTINCT ?continentLabel;separator=", ") AS ?continentLabels)
+  (GROUP_CONCAT(DISTINCT ?occLabel;      separator=", ") AS ?occLabels)
+WHERE {
+  GRAPH <https://github.com/Benmad26/Formula1_drivers/blob/main/graphs/wikidata-imported-data.md> {
+    ?personUri a wd:Q5.
+
+    OPTIONAL { ?personUri rdfs:label ?personLabel. }
+    OPTIONAL { ?personUri wdt:P569 ?birthDate. }
+
+    OPTIONAL {
+      ?personUri wdt:P21 ?g.
+      ?g rdfs:label ?genderLabel.
+    }
+    OPTIONAL {
+      ?personUri wdt:P27 ?country.
+      ?country rdfs:label ?countryLabel.
+      ?country wdt:P30 ?continent.
+      ?continent rdfs:label ?continentLabel.
+    }
+    OPTIONAL {
+      ?personUri wdt:P106 ?occ.
+      ?occ rdfs:label ?occLabel.
+    }
+  }
+}
+GROUP BY ?personUri
+```
