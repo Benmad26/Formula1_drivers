@@ -842,3 +842,26 @@ WHERE {
     HAVING (?n > 1)
 }
 ```
+```sparql
+PREFIX wd: <http://www.wikidata.org/entity/>
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+
+SELECT ?person
+       (SAMPLE(?personLabel) AS ?personLabel)
+       (SAMPLE(?birthDate) AS ?birthDate)
+       (SAMPLE(?gender) AS ?gender)
+       (GROUP_CONCAT(DISTINCT ?continentLabel; separator=", ") AS ?continents)
+WHERE {
+  ?person a wd:Q5 .
+  OPTIONAL { ?person rdfs:label ?personLabel . }
+  OPTIONAL { ?person wdt:P569 ?birthDate . }
+  OPTIONAL { ?person wdt:P21 ?gender . }
+  OPTIONAL { 
+    ?person wdt:P27 ?country .
+    ?country wdt:P30 ?continent .
+    ?continent rdfs:label ?continentLabel .
+  }
+}
+GROUP BY ?person
+```
