@@ -25,7 +25,6 @@ Nous souhaitons analyser l’évolution annuelle du nombre de naissances issues 
 
 ---
 
-```markdown
 <!-- page2_distribution_continents.md -->
 
 # Question 2 : Répartition des naissances par continent
@@ -56,7 +55,7 @@ Objectif : visualiser la distribution géographique des naissances selon les con
 
 ---
 
-```markdown
+
 <!-- page3_spatio_temporelle.md -->
 
 # Question 3 : Évolution spatio-temporelle des naissances
