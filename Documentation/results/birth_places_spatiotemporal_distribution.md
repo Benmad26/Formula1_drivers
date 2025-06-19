@@ -15,7 +15,8 @@ Nous souhaitons analyser l’évolution annuelle du nombre de naissances issues 
 ## 3. Graphique principal  
 > **À générer** : exécuter la cellule 10 pour produire le graphique linéaire, puis exporter en `images/distribution_temporelle_naissances.png`.  
 
-![Évolution temporelle des naissances](images/naissances_distribution_10ans_genre.jpg)
+![Évolution temporelle des naissances](Formula1_drivers/Notebooks_jupyther/wikidata_exploration/images
+/naissances_distribution_10ans_genre.jpg)
 
 ## 4. Interprétation  
 - **Pic majeur** : autour de 1946–1964 (baby-boom).  
