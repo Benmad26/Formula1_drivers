@@ -1,33 +1,33 @@
 
----
+<!-- page1_distribution_temporelle.md -->
 
-```markdown
-<!-- page2_distribution_continents.md -->
-
-# Question 2 : Répartition des naissances par continent
+# Question 1 : Distribution des naissances dans le temps
 
 ## 1. Contexte et objectif  
-Comment se distribuent géographiquement les naissances selon les grands continents ?  
-**Enjeu** : visualiser les régions sous-/sur-représentées.
+Nous souhaitons analyser comment le nombre de naissances (issues de Wikidata) évolue au fil des années.  
+**Enjeu** : repérer les périodes de pic et de creux, et comprendre d’éventuels phénomènes historiques.
 
 ## 2. Méthodologie de production  
 
-1. **Source et jointure géographique**  
-   - Triplestore Wikidata pour pays + contiennent la propriété „continent”  
-   - Fichier GeoJSON des contours continents (ou données internes)
+1. **Source des données**  
+   - Triplestore Wikidata  
+   - Requête SPARQL pour récupérer count de naissances par année  
 
-2. **Requête SPARQL et chargement**  
+2. **Requête et chargement**  
    ```python
-   # Même principe que précédemment, avec continent en plus
-   sparql.setQuery("""
-   SELECT ?continentLabel (COUNT(?birth) AS ?count) WHERE {
-     ?birth wdt:P31 wd:Q5;
-            wdt:P19/wdt:P17 ?country.
-     ?country wdt:P30 ?continent.
-     SERVICE wikibase:label { bd:serviceParam wikibase:language "fr". }
-   }
-   GROUP BY ?continentLabel
-   """)
-   results = sparql.query().convert()["results"]["bindings"]
-   df2 = pd.DataFrame([{"continent": r["continentLabel"]["value"], "count": int(r["count"]["value"])} for r in results])
+   from SPARQLWrapper import SPARQLWrapper, JSON
+   import pandas as pd
 
+   sparql = SPARQLWrapper("https://query.wikidata.org/sparql")
+   sparql.setQuery("""
+   SELECT ?year (COUNT(?birth) AS ?count) WHERE {
+     ?birth wdt:P31 wd:Q5 .
+     ?birth wdt:P569 ?date .
+     BIND(YEAR(?date) AS ?year)
+   }
+   GROUP BY ?year
+   ORDER BY ?year
+   """)
+   sparql.setReturnFormat(JSON)
+   results = sparql.query().convert()["results"]["bindings"]
+   df = pd.DataFrame([{"year": int(r["year"]["value"]), "count": int(r["count"]["value"])} for r in results])
