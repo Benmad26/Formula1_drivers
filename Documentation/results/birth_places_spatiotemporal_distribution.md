@@ -41,7 +41,8 @@ Objectif : visualiser la distribution géographique des naissances selon les con
 ## 3. Graphiques  
 
 ### 3.1 Distribution des naissances par génération et continent
-![Distribution des naissances par génération et continent](../../Notebooks_jupyther/wikidata_exploration/images/Distribution_des_naissances_par_génération_et_continent.jpg)
+![Distribution par génération et continent](../../Notebooks_jupyther/wikidata_exploration/images/distribution_naissances_generation_continent.jpg)
+
 
 
 ### 3.2 Carte choroplèthe  
