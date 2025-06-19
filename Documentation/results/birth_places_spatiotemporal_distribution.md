@@ -40,9 +40,11 @@ Objectif : visualiser la distribution géographique des naissances selon les con
 
 ## 3. Graphiques  
 
-### 3.1 Histogramme par continent  
-> **À générer** : cellule 11 → exporter en `images/naissances_par_continent_bar.png`.  
-![Naissances par continent](images/naissances_par_continent_bar.png)
+### 3.1 Distribution des naissances par génération et continent
+![Distribution par génération et continent](../../Notebooks_jupyther/wikidata_exploration/images/distribution_naissances_generation_continent.jpg)
+
+
+
 
 ### 3.2 Carte choroplèthe  
 > **À générer** : cellule 13 → exporter en `images/naissances_par_continent_map.png`.  
