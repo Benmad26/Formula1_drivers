@@ -70,7 +70,7 @@ Objectif : visualiser la distribution géographique des naissances selon les con
 
 ## 3. Illustrations  
 
-![Répartition des naissances par genre et décennie](../../Notebooks_jupyther/wikidata_exploration/images/heatmap.jpg)
+![Heatmap](../../Notebooks_jupyther/wikidata_exploration/images/heatmap.jpg)
 
 ## 4. Interprétation  
 - **Points de bascule** : années où l’Afrique dépasse l’Europe (ex. 1980).  
@@ -78,3 +78,85 @@ Objectif : visualiser la distribution géographique des naissances selon les con
 - **Limites** : biais de complétude, décalage d’enregistrement.
 
 ---
+# Question 4 : Types d'organisations associées aux pilotes de F1 selon les périodes
+
+## 1. Contexte et objectif
+
+Analyser l'évolution des types d’organisations (employeurs, équipes, sponsors) associées aux pilotes de Formule 1 selon les périodes historiques.
+
+**Enjeu** : comprendre la professionnalisation du sport automobile et l'évolution de ses acteurs institutionnels.
+
+## 2. Méthodologie de production
+
+- **Données** : issue de Wikidata via SPARQL, extraction des entités liées aux pilotes.
+- **Regroupement temporel** : les périodes ont été regroupées en grands intervalles (1881–1910, 1911–1940, etc.).
+- **Classification** : typologie des organisations ("racing team", "company or gov. agency", etc.).
+- **Analyse** : tableau de contingence croisée, test du chi², puis visualisation des résidus standardisés via une heatmap.
+
+## 3. Illustration
+
+# Question 4 : Types d'organisations associées aux pilotes de F1 selon les périodes
+
+## 1. Contexte et objectif
+
+Analyser l'évolution des types d’organisations (employeurs, équipes, sponsors) associées aux pilotes de Formule 1 selon les périodes historiques.
+
+**Enjeu** : comprendre la professionnalisation du sport automobile et l'évolution de ses acteurs institutionnels.
+
+## 2. Méthodologie de production
+
+- **Données** : issue de Wikidata via SPARQL, extraction des entités liées aux pilotes.
+- **Regroupement temporel** : les périodes ont été regroupées en grands intervalles (1881–1910, 1911–1940, etc.).
+- **Classification** : typologie des organisations ("racing team", "company or gov. agency", etc.).
+- **Analyse** : tableau de contingence croisée, test du chi², puis visualisation des résidus standardisés via une heatmap.
+
+## 3. Illustration
+
+# Question 4 : Types d'organisations associées aux pilotes de F1 selon les périodes
+
+## 1. Contexte et objectif
+
+Analyser l'évolution des types d’organisations (employeurs, équipes, sponsors) associées aux pilotes de Formule 1 selon les périodes historiques.
+
+**Enjeu** : comprendre la professionnalisation du sport automobile et l'évolution de ses acteurs institutionnels.
+
+## 2. Méthodologie de production
+
+- **Données** : issue de Wikidata via SPARQL, extraction des entités liées aux pilotes.
+- **Regroupement temporel** : les périodes ont été regroupées en grands intervalles (1881–1910, 1911–1940, etc.).
+- **Classification** : typologie des organisations ("racing team", "company or gov. agency", etc.).
+- **Analyse** : tableau de contingence croisée, test du chi², puis visualisation des résidus standardisés via une heatmap.
+
+## 3. Illustration
+
+![Heatmap](../../Notebooks_jupyther/wikidata_exploration/images/Chi2_plot.png)
+
+## 4. Interprétation
+
+Cette carte de chaleur montre l'écart à l'indépendance statistique entre types d'organisations et périodes historiques (résidus du test du chi²).
+
+### Période 1881–1910 :
+- Forte **surreprésentation** de "company or gov. agency" et de "not classified organisation".
+- 🧐 Hypothèse : à cette époque, les courses automobiles étaient principalement organisées par des industriels, clubs ou entités d'État. Les écuries n'étaient pas encore structurées.
+
+### 1911–1970 :
+- Légère **sous-représentation** des entreprises/gouvernements.
+- Montée progressive des "racing teams".
+- 💡 Apparition d'équipes semi-professionnelles, mais hétérogénéité importante.
+
+### 1971–2000 :
+- Réduction des écarts : les catégories se rapprochent de l’indépendance.
+- Légère reprise des "not classified organisations".
+- 🤔 Peut révéler la présence d'entités non nommées ou de sponsors peu documentés.
+
+### Bilan
+- Le graphique illustre la **professionnalisation progressive** de la F1.
+- Le rôle dominant des "racing teams" s’affirme après 1940, avec un déclin des entités non classifiées.
+- Les premières décennies sont marquées par une organisation plus institutionnelle ou artisanale.
+
+## 5. Limites
+
+- Certains résultats peuvent être biaisés par la complétude variable des données Wikidata.
+- La catégorisation "not classified" peut masquer une grande variété de cas réels.
+
+
