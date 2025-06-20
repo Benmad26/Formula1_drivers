@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ,periods,relaType,orgMainType,period_members_number
 0,1881-1910,membership,company or gov. agency,1
 1,1881-1910,membership,not classified organisation,2
@@ -8,3 +9,6 @@
 6,1971-2000,membership,company or gov. agency,1
 7,1971-2000,membership,not classified organisation,4
 8,1971-2000,membership,racing team,134
+=======
+
+>>>>>>> 7f33d01994f9643ab4de9cb11ea72dddcd942c2c
