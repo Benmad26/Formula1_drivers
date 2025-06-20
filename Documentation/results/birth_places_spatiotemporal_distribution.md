@@ -13,7 +13,7 @@ Nous souhaitons analyser l’évolution annuelle du nombre de naissances issues 
 - **Organisation** : format “année / effectif” prêt à tracer.
 
 ## 3. Graphique principal  
-![Répartition des naissances par genre et décennie](../../Notebooks_jupyther/wikidata_exploration/images/naissances_distribution_10ans_genre.jpg)
+![Répartition des naissances par genre et décennie](../../Notebooks_jupyther/wikidata_exploration/images/distrib_naissance.png)
 
 
 
