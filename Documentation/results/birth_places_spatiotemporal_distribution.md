@@ -46,12 +46,9 @@ Objectif : visualiser la distribution géographique des naissances selon les con
 
 
 
-### 3.2 Carte choroplèthe  
-> **À générer** : cellule 13 → exporter en `images/naissances_par_continent_map.png`.  
-![Carte choroplèthe des naissances par continent](images/naissances_par_continent_map.png)
 
 ## 4. Interprétation  
-- **Continent dominant** : Asie (> 50 %).  
+- **Continent dominant** : Europe.  
 - **Écarts relatifs** : Afrique sous-représentée (biais de couverture).  
 - **Facteurs** : population, priorité éditoriale de Wikidata.
 
