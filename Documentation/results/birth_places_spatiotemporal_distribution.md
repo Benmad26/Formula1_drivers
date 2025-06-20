@@ -70,10 +70,6 @@ Objectif : visualiser la distribution géographique des naissances selon les con
 
 ## 3. Illustrations  
 
-> **À générer** :  
-> - Cellules 11–14 → exporter en `images/spatio_Afrique.png`, `images/spatio_Asie.png`, etc.  
-> - (Optionnel) animation GIF via cellule 15.
-
 ![Répartition des naissances par genre et décennie](../../Notebooks_jupyther/wikidata_exploration/images/heatmap.jpg)
 
 ## 4. Interprétation  
