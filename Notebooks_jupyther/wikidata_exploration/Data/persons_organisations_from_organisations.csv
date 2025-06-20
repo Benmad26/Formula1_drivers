@@ -1,1 +1,443 @@
-
+uriPer,labelPer,birthYear,relaType,uriOrg,labelOrg,nTypes,typesOrg,periods,listTypesOrg
+http://www.wikidata.org/entity/Q171456,Adrián Campos,1960,membership,http://www.wikidata.org/entity/Q1031592,Campos Racing,1,auto racing team,1941-1970,['auto racing team']
+http://www.wikidata.org/entity/Q171456,Adrián Campos,1960,membership,http://www.wikidata.org/entity/Q5559629,Bravo F1,1,auto racing team,1941-1970,['auto racing team']
+http://www.wikidata.org/entity/Q10494,Alain Prost,1955,membership,http://www.wikidata.org/entity/Q169898,Scuderia Ferrari,1,formula one team,1941-1970,['formula one team']
+http://www.wikidata.org/entity/Q10494,Alain Prost,1955,membership,http://www.wikidata.org/entity/Q172030,McLaren,2,formula one team | organization,1941-1970,"['formula one team', 'organization']"
+http://www.wikidata.org/entity/Q10494,Alain Prost,1955,membership,http://www.wikidata.org/entity/Q171337,Williams Racing,2,formula one team | racecar constructor,1941-1970,"['formula one team', 'racecar constructor']"
+http://www.wikidata.org/entity/Q10494,Alain Prost,1955,membership,http://www.wikidata.org/entity/Q172722,Renault F1 Team,1,formula one team,1941-1970,['formula one team']
+http://www.wikidata.org/entity/Q172753,Alan Jones,1946,membership,http://www.wikidata.org/entity/Q174176,Arrows,2,formula one team | stable,1941-1970,"['formula one team', 'stable']"
+http://www.wikidata.org/entity/Q172753,Alan Jones,1946,membership,http://www.wikidata.org/entity/Q173879,Shadow Racing Cars,1,formula one team,1941-1970,['formula one team']
+http://www.wikidata.org/entity/Q172753,Alan Jones,1946,membership,http://www.wikidata.org/entity/Q171337,Williams Racing,2,formula one team | racecar constructor,1941-1970,"['formula one team', 'racecar constructor']"
+http://www.wikidata.org/entity/Q172753,Alan Jones,1946,membership,http://www.wikidata.org/entity/Q173306,Surtees,1,formula one team,1941-1970,['formula one team']
+http://www.wikidata.org/entity/Q516070,Alberto Colombo,1946,membership,http://www.wikidata.org/entity/Q172577,Merzario,1,formula one team,1941-1970,['formula one team']
+http://www.wikidata.org/entity/Q516070,Alberto Colombo,1946,membership,http://www.wikidata.org/entity/Q172162,ATS F1,1,formula one team,1941-1970,['formula one team']
+http://www.wikidata.org/entity/Q16149172,Alexander Albon,1996,membership,http://www.wikidata.org/entity/Q171337,Williams Racing,2,formula one team | racecar constructor,1971-2000,"['formula one team', 'racecar constructor']"
+http://www.wikidata.org/entity/Q78499,Alexander Wurz,1974,membership,http://www.wikidata.org/entity/Q22958235,Conway-Sarrazin-Wurz,1,auto racing team,1971-2000,['auto racing team']
+http://www.wikidata.org/entity/Q173153,Andrea de Cesaris,1959,membership,http://www.wikidata.org/entity/Q622489,Alfa Romeo Racing,2,formula one team | organization,1941-1970,"['formula one team', 'organization']"
+http://www.wikidata.org/entity/Q61395,André Lotterer,1981,membership,http://www.wikidata.org/entity/Q22956606,Lotterer-Tréluyer-Fässler,1,auto racing team,1971-2000,['auto racing team']
+http://www.wikidata.org/entity/Q61395,André Lotterer,1981,membership,http://www.wikidata.org/entity/Q26663970,Techeetah,1,sports team,1971-2000,['sports team']
+http://www.wikidata.org/entity/Q61395,André Lotterer,1981,membership,http://www.wikidata.org/entity/Q54917700,Lotterer-Senna-Jani,1,auto racing team,1971-2000,['auto racing team']
+http://www.wikidata.org/entity/Q61395,André Lotterer,1981,membership,http://www.wikidata.org/entity/Q38384815,Lotterer-Jani-Tandy,1,auto racing team,1971-2000,['auto racing team']
+http://www.wikidata.org/entity/Q172463,André Simon,1920,membership,http://www.wikidata.org/entity/Q169898,Scuderia Ferrari,1,formula one team,1911-1940,['formula one team']
+http://www.wikidata.org/entity/Q172463,André Simon,1920,membership,http://www.wikidata.org/entity/Q173762,Scuderia Centro Sud,1,formula one team,1911-1940,['formula one team']
+http://www.wikidata.org/entity/Q172463,André Simon,1920,membership,http://www.wikidata.org/entity/Q173222,Gordini,2,auto racing team | automobile manufacturer,1911-1940,"['auto racing team', 'automobile manufacturer']"
+http://www.wikidata.org/entity/Q172463,André Simon,1920,membership,http://www.wikidata.org/entity/Q172721,Mercedes F1 Team,3,business | formula one team | organization,1911-1940,"['business', 'formula one team', 'organization']"
+http://www.wikidata.org/entity/Q171319,Anthony Davidson,1979,membership,http://www.wikidata.org/entity/Q22950181,Davidson-Buemi-Nakajima,1,auto racing team,1971-2000,['auto racing team']
+http://www.wikidata.org/entity/Q7084843,Antonio Giovinazzi,1993,membership,http://www.wikidata.org/entity/Q622489,Alfa Romeo Racing,2,formula one team | organization,1971-2000,"['formula one team', 'organization']"
+http://www.wikidata.org/entity/Q171518,Arturo Merzario,1943,membership,http://www.wikidata.org/entity/Q172997,Walter Wolf Racing,1,formula one team,1941-1970,['formula one team']
+http://www.wikidata.org/entity/Q171518,Arturo Merzario,1943,membership,http://www.wikidata.org/entity/Q171665,Fittipaldi Automotive,1,formula one team,1941-1970,['formula one team']
+http://www.wikidata.org/entity/Q171518,Arturo Merzario,1943,membership,http://www.wikidata.org/entity/Q173177,March Engineering,2,automobile manufacturer | formula one team,1941-1970,"['automobile manufacturer', 'formula one team']"
+http://www.wikidata.org/entity/Q171518,Arturo Merzario,1943,membership,http://www.wikidata.org/entity/Q169898,Scuderia Ferrari,1,formula one team,1941-1970,['formula one team']
+http://www.wikidata.org/entity/Q171518,Arturo Merzario,1943,membership,http://www.wikidata.org/entity/Q173879,Shadow Racing Cars,1,formula one team,1941-1970,['formula one team']
+http://www.wikidata.org/entity/Q171518,Arturo Merzario,1943,membership,http://www.wikidata.org/entity/Q171337,Williams Racing,2,formula one team | racecar constructor,1941-1970,"['formula one team', 'racecar constructor']"
+http://www.wikidata.org/entity/Q171518,Arturo Merzario,1943,membership,http://www.wikidata.org/entity/Q172577,Merzario,1,formula one team,1941-1970,['formula one team']
+http://www.wikidata.org/entity/Q10490,Ayrton Senna,1960,membership,http://www.wikidata.org/entity/Q172030,McLaren,2,formula one team | organization,1941-1970,"['formula one team', 'organization']"
+http://www.wikidata.org/entity/Q10490,Ayrton Senna,1960,membership,http://www.wikidata.org/entity/Q171337,Williams Racing,2,formula one team | racecar constructor,1941-1970,"['formula one team', 'racecar constructor']"
+http://www.wikidata.org/entity/Q10490,Ayrton Senna,1960,membership,http://www.wikidata.org/entity/Q172987,Toleman,1,formula one team,1941-1970,['formula one team']
+http://www.wikidata.org/entity/Q10490,Ayrton Senna,1960,membership,http://www.wikidata.org/entity/Q173996,Team Lotus,2,auto racing team | stable,1941-1970,"['auto racing team', 'stable']"
+http://www.wikidata.org/entity/Q265439,Bernard de Dryver,1952,membership,http://www.wikidata.org/entity/Q173765,British Formula One Racing Team,1,formula one team,1941-1970,['formula one team']
+http://www.wikidata.org/entity/Q361113,Brendon Hartley,1989,membership,http://www.wikidata.org/entity/Q22939728,Bernhard-Webber-Hartley,1,auto racing team,1971-2000,['auto racing team']
+http://www.wikidata.org/entity/Q173112,Bruno Giacomelli,1952,membership,http://www.wikidata.org/entity/Q172030,McLaren,2,formula one team | organization,1941-1970,"['formula one team', 'organization']"
+http://www.wikidata.org/entity/Q173112,Bruno Giacomelli,1952,membership,http://www.wikidata.org/entity/Q171972,Life Racing Engines,1,formula one team,1941-1970,['formula one team']
+http://www.wikidata.org/entity/Q173112,Bruno Giacomelli,1952,membership,http://www.wikidata.org/entity/Q11085064,Theodore Racing,1,formula one team,1941-1970,['formula one team']
+http://www.wikidata.org/entity/Q173112,Bruno Giacomelli,1952,membership,http://www.wikidata.org/entity/Q480255,Kremer Racing,1,auto racing team,1941-1970,['auto racing team']
+http://www.wikidata.org/entity/Q173112,Bruno Giacomelli,1952,membership,http://www.wikidata.org/entity/Q3269772,Patrick Racing,1,stable,1941-1970,['stable']
+http://www.wikidata.org/entity/Q173112,Bruno Giacomelli,1952,membership,http://www.wikidata.org/entity/Q622489,Alfa Romeo Racing,2,formula one team | organization,1941-1970,"['formula one team', 'organization']"
+http://www.wikidata.org/entity/Q173112,Bruno Giacomelli,1952,membership,http://www.wikidata.org/entity/Q172987,Toleman,1,formula one team,1941-1970,['formula one team']
+http://www.wikidata.org/entity/Q82864,Bruno Senna,1983,membership,http://www.wikidata.org/entity/Q54917700,Lotterer-Senna-Jani,1,auto racing team,1971-2000,['auto racing team']
+http://www.wikidata.org/entity/Q171963,Carel Godin de Beaufort,1934,membership,http://www.wikidata.org/entity/Q2082197,Ecurie Maarsbergen,1,formula one team,1911-1940,['formula one team']
+http://www.wikidata.org/entity/Q544856,Carlos Sainz Jr.,1994,membership,http://www.wikidata.org/entity/Q172030,McLaren,2,formula one team | organization,1971-2000,"['formula one team', 'organization']"
+http://www.wikidata.org/entity/Q544856,Carlos Sainz Jr.,1994,membership,http://www.wikidata.org/entity/Q171337,Williams Racing,2,formula one team | racecar constructor,1971-2000,"['formula one team', 'racecar constructor']"
+http://www.wikidata.org/entity/Q544856,Carlos Sainz Jr.,1994,membership,http://www.wikidata.org/entity/Q141818,Scuderia Toro Rosso,1,formula one team,1971-2000,['formula one team']
+http://www.wikidata.org/entity/Q544856,Carlos Sainz Jr.,1994,membership,http://www.wikidata.org/entity/Q172722,Renault F1 Team,1,formula one team,1971-2000,['formula one team']
+http://www.wikidata.org/entity/Q17541912,Charles Leclerc,1997,membership,http://www.wikidata.org/entity/Q171335,Sauber,2,formula one team | organization,1971-2000,"['formula one team', 'organization']"
+http://www.wikidata.org/entity/Q17541912,Charles Leclerc,1997,membership,http://www.wikidata.org/entity/Q169898,Scuderia Ferrari,1,formula one team,1971-2000,['formula one team']
+http://www.wikidata.org/entity/Q515506,Chris Irwin,1942,membership,http://www.wikidata.org/entity/Q7307836,Reg Parnell Racing,1,formula one team,1941-1970,['formula one team']
+http://www.wikidata.org/entity/Q515506,Chris Irwin,1942,membership,http://www.wikidata.org/entity/Q173103,Brabham,1,formula one team,1941-1970,['formula one team']
+http://www.wikidata.org/entity/Q84178,Christian Klien,1983,membership,http://www.wikidata.org/entity/Q22958306,Team ByKolles #4,1,auto racing team,1971-2000,['auto racing team']
+http://www.wikidata.org/entity/Q171723,Cliff Allison,1932,membership,http://www.wikidata.org/entity/Q173996,Team Lotus,2,auto racing team | stable,1911-1940,"['auto racing team', 'stable']"
+http://www.wikidata.org/entity/Q171723,Cliff Allison,1932,membership,http://www.wikidata.org/entity/Q172148,British Racing Partnership,1,formula one team,1911-1940,['formula one team']
+http://www.wikidata.org/entity/Q171723,Cliff Allison,1932,membership,http://www.wikidata.org/entity/Q169898,Scuderia Ferrari,1,formula one team,1911-1940,['formula one team']
+http://www.wikidata.org/entity/Q171723,Cliff Allison,1932,membership,http://www.wikidata.org/entity/Q173762,Scuderia Centro Sud,1,formula one team,1911-1940,['formula one team']
+http://www.wikidata.org/entity/Q172065,Consalvo Sanesi,1911,membership,http://www.wikidata.org/entity/Q622489,Alfa Romeo Racing,2,formula one team | organization,1911-1940,"['formula one team', 'organization']"
+http://www.wikidata.org/entity/Q171616,Corrado Fabi,1961,membership,http://www.wikidata.org/entity/Q173103,Brabham,1,formula one team,1941-1970,['formula one team']
+http://www.wikidata.org/entity/Q171616,Corrado Fabi,1961,membership,http://www.wikidata.org/entity/Q171506,Osella,2,automobile manufacturer | formula one team,1941-1970,"['automobile manufacturer', 'formula one team']"
+http://www.wikidata.org/entity/Q171616,Corrado Fabi,1961,membership,http://www.wikidata.org/entity/Q173177,March Engineering,2,automobile manufacturer | formula one team,1941-1970,"['automobile manufacturer', 'formula one team']"
+http://www.wikidata.org/entity/Q453442,Dani Clos,1988,membership,http://www.wikidata.org/entity/Q1626337,Racing Engineering,1,auto racing team,1971-2000,['auto racing team']
+http://www.wikidata.org/entity/Q82816,Daniel Ricciardo,1989,membership,http://www.wikidata.org/entity/Q71371541,Scuderia AlphaTauri,2,formula one team | organization,1971-2000,"['formula one team', 'organization']"
+http://www.wikidata.org/entity/Q82816,Daniel Ricciardo,1989,membership,http://www.wikidata.org/entity/Q141818,Scuderia Toro Rosso,1,formula one team,1971-2000,['formula one team']
+http://www.wikidata.org/entity/Q82816,Daniel Ricciardo,1989,membership,http://www.wikidata.org/entity/Q172722,Renault F1 Team,1,formula one team,1971-2000,['formula one team']
+http://www.wikidata.org/entity/Q82816,Daniel Ricciardo,1989,membership,http://www.wikidata.org/entity/Q173663,Red Bull Racing,1,formula one team,1971-2000,['formula one team']
+http://www.wikidata.org/entity/Q82816,Daniel Ricciardo,1989,membership,http://www.wikidata.org/entity/Q172030,McLaren,2,formula one team | organization,1971-2000,"['formula one team', 'organization']"
+http://www.wikidata.org/entity/Q82816,Daniel Ricciardo,1989,membership,http://www.wikidata.org/entity/Q171420,HRT Formula One Team,1,formula one team,1971-2000,['formula one team']
+http://www.wikidata.org/entity/Q979668,Daniil Kvyat,1994,membership,http://www.wikidata.org/entity/Q141818,Scuderia Toro Rosso,1,formula one team,1971-2000,['formula one team']
+http://www.wikidata.org/entity/Q460768,Dave Charlton,1936,membership,http://www.wikidata.org/entity/Q173103,Brabham,1,formula one team,1911-1940,['formula one team']
+http://www.wikidata.org/entity/Q460768,Dave Charlton,1936,membership,http://www.wikidata.org/entity/Q7439399,Scuderia Scribante,1,formula one team,1911-1940,['formula one team']
+http://www.wikidata.org/entity/Q172338,Dave Morgan,1944,membership,http://www.wikidata.org/entity/Q173306,Surtees,1,formula one team,1941-1970,['formula one team']
+http://www.wikidata.org/entity/Q173001,David Brabham,1965,membership,http://www.wikidata.org/entity/Q23722770,JRM Racing,1,auto racing team,1941-1970,['auto racing team']
+http://www.wikidata.org/entity/Q173001,David Brabham,1965,membership,http://www.wikidata.org/entity/Q23675379,Brown-Fogarty-van Overbeek,1,auto racing team,1941-1970,['auto racing team']
+http://www.wikidata.org/entity/Q172832,David Coulthard,1971,membership,http://www.wikidata.org/entity/Q171337,Williams Racing,2,formula one team | racecar constructor,1971-2000,"['formula one team', 'racecar constructor']"
+http://www.wikidata.org/entity/Q172832,David Coulthard,1971,membership,http://www.wikidata.org/entity/Q173663,Red Bull Racing,1,formula one team,1971-2000,['formula one team']
+http://www.wikidata.org/entity/Q172832,David Coulthard,1971,membership,http://www.wikidata.org/entity/Q172030,McLaren,2,formula one team | organization,1971-2000,"['formula one team', 'organization']"
+http://www.wikidata.org/entity/Q171879,David Murray,1909,membership,http://www.wikidata.org/entity/Q3047147,Ecurie Ecosse,1,formula one team,1881-1910,['formula one team']
+http://www.wikidata.org/entity/Q171879,David Murray,1909,membership,http://www.wikidata.org/entity/Q2548586,Scuderia Ambrosiana,1,formula one team,1881-1910,['formula one team']
+http://www.wikidata.org/entity/Q171743,David Purley,1945,membership,http://www.wikidata.org/entity/Q172841,Token Racing,1,formula one team,1941-1970,['formula one team']
+http://www.wikidata.org/entity/Q171743,David Purley,1945,membership,http://www.wikidata.org/entity/Q2291349,LEC Refrigeration Racing,1,formula one team,1941-1970,['formula one team']
+http://www.wikidata.org/entity/Q172091,David Walker,1941,membership,http://www.wikidata.org/entity/Q173996,Team Lotus,2,auto racing team | stable,1941-1970,"['auto racing team', 'stable']"
+http://www.wikidata.org/entity/Q3166,Denny Hulme,1936,membership,http://www.wikidata.org/entity/Q172030,McLaren,2,formula one team | organization,1911-1940,"['formula one team', 'organization']"
+http://www.wikidata.org/entity/Q3166,Denny Hulme,1936,membership,http://www.wikidata.org/entity/Q927748,Tom Walkinshaw Racing,1,auto racing team,1911-1940,['auto racing team']
+http://www.wikidata.org/entity/Q3166,Denny Hulme,1936,membership,http://www.wikidata.org/entity/Q173103,Brabham,1,formula one team,1911-1940,['formula one team']
+http://www.wikidata.org/entity/Q3166,Denny Hulme,1936,membership,http://www.wikidata.org/entity/Q16970540,JPS Team BMW,1,auto racing team,1911-1940,['auto racing team']
+http://www.wikidata.org/entity/Q3166,Denny Hulme,1936,membership,http://www.wikidata.org/entity/Q8052439,Yeoman Credit Racing,1,auto racing team,1911-1940,['auto racing team']
+http://www.wikidata.org/entity/Q3166,Denny Hulme,1936,membership,http://www.wikidata.org/entity/Q173450,All American Racers,1,formula one team,1911-1940,['formula one team']
+http://www.wikidata.org/entity/Q3166,Denny Hulme,1936,membership,http://www.wikidata.org/entity/Q4893753,Bernard White Racing,1,formula one team,1911-1940,['formula one team']
+http://www.wikidata.org/entity/Q3166,Denny Hulme,1936,membership,http://www.wikidata.org/entity/Q171992,Tyrrell Racing,1,formula one team,1911-1940,['formula one team']
+http://www.wikidata.org/entity/Q3166,Denny Hulme,1936,membership,http://www.wikidata.org/entity/Q7169039,Perkins Engineering,1,auto racing team,1911-1940,['auto racing team']
+http://www.wikidata.org/entity/Q140393,Džeimss Hants,1947,membership,http://www.wikidata.org/entity/Q171596,Hesketh Racing,36,formula one team | motorcycle racing team,1941-1970,"['formula one team', 'motorcycle racing team']"
+http://www.wikidata.org/entity/Q140393,Džeimss Hants,1947,membership,http://www.wikidata.org/entity/Q172030,McLaren,36,formula one team | organization,1941-1970,"['formula one team', 'organization']"
+http://www.wikidata.org/entity/Q140393,Džeimss Hants,1947,membership,http://www.wikidata.org/entity/Q14905784,Wolf Racing Cars,18,auto racing team,1941-1970,['auto racing team']
+http://www.wikidata.org/entity/Q173205,Eddie Cheever,1958,membership,http://www.wikidata.org/entity/Q622489,Alfa Romeo Racing,2,formula one team | organization,1941-1970,"['formula one team', 'organization']"
+http://www.wikidata.org/entity/Q461398,Emilio Zapico,1944,membership,http://www.wikidata.org/entity/Q173225,Frank Williams Racing Cars,1,auto racing team,1941-1970,['auto racing team']
+http://www.wikidata.org/entity/Q435698,Enrico Bertaggia,1964,membership,http://www.wikidata.org/entity/Q173314,Coloni,1,formula one team,1941-1970,['formula one team']
+http://www.wikidata.org/entity/Q435698,Enrico Bertaggia,1964,membership,http://www.wikidata.org/entity/Q172974,Forti,1,formula one team,1941-1970,['formula one team']
+http://www.wikidata.org/entity/Q435698,Enrico Bertaggia,1964,membership,http://www.wikidata.org/entity/Q172857,Lola Cars,2,auto racing team | formula one team,1941-1970,"['auto racing team', 'formula one team']"
+http://www.wikidata.org/entity/Q435698,Enrico Bertaggia,1964,membership,http://www.wikidata.org/entity/Q173293,Andrea Moda Formula,1,formula one team,1941-1970,['formula one team']
+http://www.wikidata.org/entity/Q172285,Eppie Wietzes,1938,membership,http://www.wikidata.org/entity/Q173103,Brabham,1,formula one team,1911-1940,['formula one team']
+http://www.wikidata.org/entity/Q172285,Eppie Wietzes,1938,membership,http://www.wikidata.org/entity/Q173996,Team Lotus,2,auto racing team | stable,1911-1940,"['auto racing team', 'stable']"
+http://www.wikidata.org/entity/Q18915,Esteban Gutiérrez,1991,membership,http://www.wikidata.org/entity/Q16300222,Haas F1 Team,1,formula one team,1971-2000,['formula one team']
+http://www.wikidata.org/entity/Q18915,Esteban Gutiérrez,1991,membership,http://www.wikidata.org/entity/Q26966,Mercedes-AMG,4,auto racing team | automobile manufacturer | business | sub-brand,1971-2000,"['auto racing team', 'automobile manufacturer', 'business', 'sub-brand']"
+http://www.wikidata.org/entity/Q15074165,Esteban Ocon,1996,membership,http://www.wikidata.org/entity/Q172722,Renault F1 Team,1,formula one team,1971-2000,['formula one team']
+http://www.wikidata.org/entity/Q15074165,Esteban Ocon,1996,membership,http://www.wikidata.org/entity/Q138933,Force India,1,formula one team,1971-2000,['formula one team']
+http://www.wikidata.org/entity/Q15074165,Esteban Ocon,1996,membership,http://www.wikidata.org/entity/Q2267054,Manor Motorsport,1,auto racing team,1971-2000,['auto racing team']
+http://www.wikidata.org/entity/Q15074165,Esteban Ocon,1996,membership,http://www.wikidata.org/entity/Q56245286,Racing Point F1 Team,1,formula one team,1971-2000,['formula one team']
+http://www.wikidata.org/entity/Q15074165,Esteban Ocon,1996,membership,http://www.wikidata.org/entity/Q16300222,Haas F1 Team,1,formula one team,1971-2000,['formula one team']
+http://www.wikidata.org/entity/Q171933,Eugenio Castellotti,1930,membership,http://www.wikidata.org/entity/Q169898,Scuderia Ferrari,1,formula one team,1911-1940,['formula one team']
+http://www.wikidata.org/entity/Q171897,Felice Bonetto,1903,membership,http://www.wikidata.org/entity/Q622489,Alfa Romeo Racing,2,formula one team | organization,1881-1910,"['formula one team', 'organization']"
+http://www.wikidata.org/entity/Q10514,Fernando Alonso,1981,membership,http://www.wikidata.org/entity/Q169898,Scuderia Ferrari,1,formula one team,1971-2000,['formula one team']
+http://www.wikidata.org/entity/Q10514,Fernando Alonso,1981,membership,http://www.wikidata.org/entity/Q172030,McLaren,2,formula one team | organization,1971-2000,"['formula one team', 'organization']"
+http://www.wikidata.org/entity/Q10514,Fernando Alonso,1981,membership,http://www.wikidata.org/entity/Q104620704,Aston Martin F1 Team,2,formula one team | organization,1971-2000,"['formula one team', 'organization']"
+http://www.wikidata.org/entity/Q10514,Fernando Alonso,1981,membership,http://www.wikidata.org/entity/Q172722,Renault F1 Team,1,formula one team,1971-2000,['formula one team']
+http://www.wikidata.org/entity/Q10514,Fernando Alonso,1981,membership,http://www.wikidata.org/entity/Q142381,Minardi,2,formula one team | organization,1971-2000,"['formula one team', 'organization']"
+http://www.wikidata.org/entity/Q173288,Franck Lagorce,1968,membership,http://www.wikidata.org/entity/Q3220251,Equipe Ligier,1,auto racing team,1941-1970,['auto racing team']
+http://www.wikidata.org/entity/Q172539,Frank Gardner,1931,membership,http://www.wikidata.org/entity/Q4893753,Bernard White Racing,1,formula one team,1911-1940,['formula one team']
+http://www.wikidata.org/entity/Q172257,François Mazet,1943,membership,http://www.wikidata.org/entity/Q173177,March Engineering,2,automobile manufacturer | formula one team,1941-1970,"['automobile manufacturer', 'formula one team']"
+http://www.wikidata.org/entity/Q172270,François Picard,1921,membership,http://www.wikidata.org/entity/Q780447,Rob Walker Racing Team,1,formula one team,1911-1940,['formula one team']
+http://www.wikidata.org/entity/Q172799,Fred Gamble,1932,membership,http://www.wikidata.org/entity/Q1029684,Casner Motor Racing Division,1,formula one team,1911-1940,['formula one team']
+http://www.wikidata.org/entity/Q172335,Fritz d'Orey,1938,membership,http://www.wikidata.org/entity/Q173762,Scuderia Centro Sud,1,formula one team,1911-1940,['formula one team']
+http://www.wikidata.org/entity/Q17319645,George Russell,1998,membership,http://www.wikidata.org/entity/Q171337,Williams Racing,2,formula one team | racecar constructor,1971-2000,"['formula one team', 'racecar constructor']"
+http://www.wikidata.org/entity/Q78502,Gerhard Berger,1959,membership,http://www.wikidata.org/entity/Q169898,Scuderia Ferrari,1,formula one team,1941-1970,['formula one team']
+http://www.wikidata.org/entity/Q78502,Gerhard Berger,1959,membership,http://www.wikidata.org/entity/Q172030,McLaren,2,formula one team | organization,1941-1970,"['formula one team', 'organization']"
+http://www.wikidata.org/entity/Q78502,Gerhard Berger,1959,membership,http://www.wikidata.org/entity/Q171329,Benetton Formula,1,formula one team,1941-1970,['formula one team']
+http://www.wikidata.org/entity/Q78502,Gerhard Berger,1959,membership,http://www.wikidata.org/entity/Q172162,ATS F1,1,formula one team,1941-1970,['formula one team']
+http://www.wikidata.org/entity/Q78502,Gerhard Berger,1959,membership,http://www.wikidata.org/entity/Q174176,Arrows,2,formula one team | stable,1941-1970,"['formula one team', 'stable']"
+http://www.wikidata.org/entity/Q970606,Gianbattista Guidotti,1902,membership,http://www.wikidata.org/entity/Q622489,Alfa Romeo Racing,2,formula one team | organization,1881-1910,"['formula one team', 'organization']"
+http://www.wikidata.org/entity/Q120308,Gijs van Lennep,1942,membership,http://www.wikidata.org/entity/Q173415,Ensign Racing,1,formula one team,1941-1970,['formula one team']
+http://www.wikidata.org/entity/Q120308,Gijs van Lennep,1942,membership,http://www.wikidata.org/entity/Q171337,Williams Racing,2,formula one team | racecar constructor,1941-1970,"['formula one team', 'racecar constructor']"
+http://www.wikidata.org/entity/Q120308,Gijs van Lennep,1942,membership,http://www.wikidata.org/entity/Q173306,Surtees,1,formula one team,1941-1970,['formula one team']
+http://www.wikidata.org/entity/Q172845,Gilles Villeneuve,1950,membership,http://www.wikidata.org/entity/Q169898,Scuderia Ferrari,1,formula one team,1941-1970,['formula one team']
+http://www.wikidata.org/entity/Q172029,Giorgio Scarlatti,1921,membership,http://www.wikidata.org/entity/Q173770,Scuderia Serenissima,1,formula one team,1911-1940,['formula one team']
+http://www.wikidata.org/entity/Q172029,Giorgio Scarlatti,1921,membership,http://www.wikidata.org/entity/Q173003,Cooper Car Company,2,automobile manufacturer | formula one team,1911-1940,"['automobile manufacturer', 'formula one team']"
+http://www.wikidata.org/entity/Q172029,Giorgio Scarlatti,1921,membership,http://www.wikidata.org/entity/Q173762,Scuderia Centro Sud,1,formula one team,1911-1940,['formula one team']
+http://www.wikidata.org/entity/Q711156,Giulio Cabianca,1923,membership,http://www.wikidata.org/entity/Q936574,OSCA,2,auto racing team | automobile manufacturer,1911-1940,"['auto racing team', 'automobile manufacturer']"
+http://www.wikidata.org/entity/Q2040,Giuseppe Farina,1906,membership,http://www.wikidata.org/entity/Q169898,Scuderia Ferrari,1,formula one team,1881-1910,['formula one team']
+http://www.wikidata.org/entity/Q2040,Giuseppe Farina,1906,membership,http://www.wikidata.org/entity/Q622489,Alfa Romeo Racing,2,formula one team | organization,1881-1910,"['formula one team', 'organization']"
+http://www.wikidata.org/entity/Q3128,Graham Hill,1929,membership,http://www.wikidata.org/entity/Q844092,Equipe Matra Sports,1,formula one team,1911-1940,['formula one team']
+http://www.wikidata.org/entity/Q3128,Graham Hill,1929,membership,http://www.wikidata.org/entity/Q173103,Brabham,1,formula one team,1911-1940,['formula one team']
+http://www.wikidata.org/entity/Q3128,Graham Hill,1929,membership,http://www.wikidata.org/entity/Q173301,Embassy Hill,1,formula one team,1911-1940,['formula one team']
+http://www.wikidata.org/entity/Q3128,Graham Hill,1929,membership,http://www.wikidata.org/entity/Q173996,Team Lotus,2,auto racing team | stable,1911-1940,"['auto racing team', 'stable']"
+http://www.wikidata.org/entity/Q3128,Graham Hill,1929,membership,http://www.wikidata.org/entity/Q7439400,Scuderia Veloce,1,auto racing team,1911-1940,['auto racing team']
+http://www.wikidata.org/entity/Q3128,Graham Hill,1929,membership,http://www.wikidata.org/entity/Q173012,British Racing Motors,1,formula one team,1911-1940,['formula one team']
+http://www.wikidata.org/entity/Q3128,Graham Hill,1929,membership,http://www.wikidata.org/entity/Q780447,Rob Walker Racing Team,1,formula one team,1911-1940,['formula one team']
+http://www.wikidata.org/entity/Q4694199,Guerino Bertocchi,1907,membership,http://www.wikidata.org/entity/Q2548586,Scuderia Ambrosiana,1,formula one team,1881-1910,['formula one team']
+http://www.wikidata.org/entity/Q82891,Heikki Kovalainen,1981,membership,http://www.wikidata.org/entity/Q3001169,Team Lotus,1,sports club,1971-2000,['sports club']
+http://www.wikidata.org/entity/Q171593,Henri Pescarolo,1942,membership,http://www.wikidata.org/entity/Q171337,Williams Racing,2,formula one team | racecar constructor,1941-1970,"['formula one team', 'racecar constructor']"
+http://www.wikidata.org/entity/Q171593,Henri Pescarolo,1942,membership,http://www.wikidata.org/entity/Q2261539,Martini Racing,1,auto racing team,1941-1970,['auto racing team']
+http://www.wikidata.org/entity/Q171593,Henri Pescarolo,1942,membership,http://www.wikidata.org/entity/Q173779,BS Fabrications,1,formula one team,1941-1970,['formula one team']
+http://www.wikidata.org/entity/Q171593,Henri Pescarolo,1942,membership,http://www.wikidata.org/entity/Q173769,Scuderia Filipinetti,1,formula one team,1941-1970,['formula one team']
+http://www.wikidata.org/entity/Q171593,Henri Pescarolo,1942,membership,http://www.wikidata.org/entity/Q35931,Ligier,1,organization,1941-1970,['organization']
+http://www.wikidata.org/entity/Q171593,Henri Pescarolo,1942,membership,http://www.wikidata.org/entity/Q173177,March Engineering,2,automobile manufacturer | formula one team,1941-1970,"['automobile manufacturer', 'formula one team']"
+http://www.wikidata.org/entity/Q171593,Henri Pescarolo,1942,membership,http://www.wikidata.org/entity/Q173012,British Racing Motors,1,formula one team,1941-1970,['formula one team']
+http://www.wikidata.org/entity/Q171593,Henri Pescarolo,1942,membership,http://www.wikidata.org/entity/Q844092,Equipe Matra Sports,1,formula one team,1941-1970,['formula one team']
+http://www.wikidata.org/entity/Q172405,Henry Taylor,1932,membership,http://www.wikidata.org/entity/Q172148,British Racing Partnership,1,formula one team,1911-1940,['formula one team']
+http://www.wikidata.org/entity/Q172405,Henry Taylor,1932,membership,http://www.wikidata.org/entity/Q8052439,Yeoman Credit Racing,1,auto racing team,1911-1940,['auto racing team']
+http://www.wikidata.org/entity/Q172967,Hideki Noda,1969,membership,http://www.wikidata.org/entity/Q172958,Larrousse,1,formula one team,1941-1970,['formula one team']
+http://www.wikidata.org/entity/Q171716,Huub Rothengatter,1954,membership,http://www.wikidata.org/entity/Q171506,Osella,2,automobile manufacturer | formula one team,1941-1970,"['automobile manufacturer', 'formula one team']"
+http://www.wikidata.org/entity/Q171716,Huub Rothengatter,1954,membership,http://www.wikidata.org/entity/Q173088,Spirit Racing,1,formula one team,1941-1970,['formula one team']
+http://www.wikidata.org/entity/Q171716,Huub Rothengatter,1954,membership,http://www.wikidata.org/entity/Q4352479,Alan Docking Racing,1,auto racing team,1941-1970,['auto racing team']
+http://www.wikidata.org/entity/Q171716,Huub Rothengatter,1954,membership,http://www.wikidata.org/entity/Q144823,Zakspeed,1,auto racing team,1941-1970,['auto racing team']
+http://www.wikidata.org/entity/Q172043,Ian Burgess,1930,membership,http://www.wikidata.org/entity/Q173762,Scuderia Centro Sud,1,formula one team,1911-1940,['formula one team']
+http://www.wikidata.org/entity/Q172043,Ian Burgess,1930,membership,http://www.wikidata.org/entity/Q1029684,Casner Motor Racing Division,1,formula one team,1911-1940,['formula one team']
+http://www.wikidata.org/entity/Q172043,Ian Burgess,1930,membership,http://www.wikidata.org/entity/Q172490,Scirocco-Powell,1,auto racing team,1911-1940,['auto racing team']
+http://www.wikidata.org/entity/Q172043,Ian Burgess,1930,membership,http://www.wikidata.org/entity/Q173003,Cooper Car Company,2,automobile manufacturer | formula one team,1911-1940,"['automobile manufacturer', 'formula one team']"
+http://www.wikidata.org/entity/Q173336,Innes Ireland,1930,membership,http://www.wikidata.org/entity/Q4893753,Bernard White Racing,1,formula one team,1911-1940,['formula one team']
+http://www.wikidata.org/entity/Q173336,Innes Ireland,1930,membership,http://www.wikidata.org/entity/Q173996,Team Lotus,2,auto racing team | stable,1911-1940,"['auto racing team', 'stable']"
+http://www.wikidata.org/entity/Q173336,Innes Ireland,1930,membership,http://www.wikidata.org/entity/Q172148,British Racing Partnership,1,formula one team,1911-1940,['formula one team']
+http://www.wikidata.org/entity/Q173336,Innes Ireland,1930,membership,http://www.wikidata.org/entity/Q7307836,Reg Parnell Racing,1,formula one team,1911-1940,['formula one team']
+http://www.wikidata.org/entity/Q172127,Ivor Bueb,1923,membership,http://www.wikidata.org/entity/Q172148,British Racing Partnership,1,formula one team,1911-1940,['formula one team']
+http://www.wikidata.org/entity/Q172127,Ivor Bueb,1923,membership,http://www.wikidata.org/entity/Q173536,Connaught Engineering,1,formula one team,1911-1940,['formula one team']
+http://www.wikidata.org/entity/Q172127,Ivor Bueb,1923,membership,http://www.wikidata.org/entity/Q3312686,Gilby Engineering,1,formula one team,1911-1940,['formula one team']
+http://www.wikidata.org/entity/Q172979,JJ Lehto,1966,membership,http://www.wikidata.org/entity/Q172109,Onyx Grand Prix,1,formula one team,1941-1970,['formula one team']
+http://www.wikidata.org/entity/Q172979,JJ Lehto,1966,membership,http://www.wikidata.org/entity/Q1157975,Dallara,4,auto racing team | formula one team | racecar constructor | stable,1941-1970,"['auto racing team', 'formula one team', 'racecar constructor', 'stable']"
+http://www.wikidata.org/entity/Q172979,JJ Lehto,1966,membership,http://www.wikidata.org/entity/Q171335,Sauber,2,formula one team | organization,1941-1970,"['formula one team', 'organization']"
+http://www.wikidata.org/entity/Q172979,JJ Lehto,1966,membership,http://www.wikidata.org/entity/Q171329,Benetton Formula,1,formula one team,1941-1970,['formula one team']
+http://www.wikidata.org/entity/Q516000,Jac Nellemann,1944,membership,http://www.wikidata.org/entity/Q173104,RAM Racing,1,formula one team,1941-1970,['formula one team']
+http://www.wikidata.org/entity/Q2125,Jack Brabham,1926,membership,http://www.wikidata.org/entity/Q173003,Cooper Car Company,2,automobile manufacturer | formula one team,1911-1940,"['automobile manufacturer', 'formula one team']"
+http://www.wikidata.org/entity/Q2125,Jack Brabham,1926,membership,http://www.wikidata.org/entity/Q173103,Brabham,1,formula one team,1911-1940,['formula one team']
+http://www.wikidata.org/entity/Q172644,Jack Fairman,1913,membership,http://www.wikidata.org/entity/Q173536,Connaught Engineering,1,formula one team,1911-1940,['formula one team']
+http://www.wikidata.org/entity/Q172644,Jack Fairman,1913,membership,http://www.wikidata.org/entity/Q3047147,Ecurie Ecosse,1,formula one team,1911-1940,['formula one team']
+http://www.wikidata.org/entity/Q172644,Jack Fairman,1913,membership,http://www.wikidata.org/entity/Q173003,Cooper Car Company,2,automobile manufacturer | formula one team,1911-1940,"['automobile manufacturer', 'formula one team']"
+http://www.wikidata.org/entity/Q172644,Jack Fairman,1913,membership,http://www.wikidata.org/entity/Q173012,British Racing Motors,1,formula one team,1911-1940,['formula one team']
+http://www.wikidata.org/entity/Q172644,Jack Fairman,1913,membership,http://www.wikidata.org/entity/Q780447,Rob Walker Racing Team,1,formula one team,1911-1940,['formula one team']
+http://www.wikidata.org/entity/Q171720,Jackie Oliver,1942,membership,http://www.wikidata.org/entity/Q172030,McLaren,2,formula one team | organization,1941-1970,"['formula one team', 'organization']"
+http://www.wikidata.org/entity/Q171720,Jackie Oliver,1942,membership,http://www.wikidata.org/entity/Q173996,Team Lotus,2,auto racing team | stable,1941-1970,"['auto racing team', 'stable']"
+http://www.wikidata.org/entity/Q171720,Jackie Oliver,1942,membership,http://www.wikidata.org/entity/Q173012,British Racing Motors,1,formula one team,1941-1970,['formula one team']
+http://www.wikidata.org/entity/Q171720,Jackie Oliver,1942,membership,http://www.wikidata.org/entity/Q173879,Shadow Racing Cars,1,formula one team,1941-1970,['formula one team']
+http://www.wikidata.org/entity/Q3188,Jackie Stewart,1939,membership,http://www.wikidata.org/entity/Q173012,British Racing Motors,1,formula one team,1911-1940,['formula one team']
+http://www.wikidata.org/entity/Q3188,Jackie Stewart,1939,membership,http://www.wikidata.org/entity/Q844092,Equipe Matra Sports,1,formula one team,1911-1940,['formula one team']
+http://www.wikidata.org/entity/Q3188,Jackie Stewart,1939,membership,http://www.wikidata.org/entity/Q171992,Tyrrell Racing,1,formula one team,1911-1940,['formula one team']
+http://www.wikidata.org/entity/Q173123,Jacky Ickx,1945,membership,http://www.wikidata.org/entity/Q173415,Ensign Racing,1,formula one team,1941-1970,['formula one team']
+http://www.wikidata.org/entity/Q173123,Jacky Ickx,1945,membership,http://www.wikidata.org/entity/Q173103,Brabham,1,formula one team,1941-1970,['formula one team']
+http://www.wikidata.org/entity/Q173123,Jacky Ickx,1945,membership,http://www.wikidata.org/entity/Q171337,Williams Racing,2,formula one team | racecar constructor,1941-1970,"['formula one team', 'racecar constructor']"
+http://www.wikidata.org/entity/Q173123,Jacky Ickx,1945,membership,http://www.wikidata.org/entity/Q173996,Team Lotus,2,auto racing team | stable,1941-1970,"['auto racing team', 'stable']"
+http://www.wikidata.org/entity/Q173123,Jacky Ickx,1945,membership,http://www.wikidata.org/entity/Q169898,Scuderia Ferrari,1,formula one team,1941-1970,['formula one team']
+http://www.wikidata.org/entity/Q173123,Jacky Ickx,1945,membership,http://www.wikidata.org/entity/Q172030,McLaren,2,formula one team | organization,1941-1970,"['formula one team', 'organization']"
+http://www.wikidata.org/entity/Q172843,Jacques Villeneuve,1971,membership,http://www.wikidata.org/entity/Q172722,Renault F1 Team,1,formula one team,1971-2000,['formula one team']
+http://www.wikidata.org/entity/Q172843,Jacques Villeneuve,1971,membership,http://www.wikidata.org/entity/Q171335,Sauber,2,formula one team | organization,1971-2000,"['formula one team', 'organization']"
+http://www.wikidata.org/entity/Q172843,Jacques Villeneuve,1971,membership,http://www.wikidata.org/entity/Q171320,British American Racing,1,formula one team,1971-2000,['formula one team']
+http://www.wikidata.org/entity/Q172843,Jacques Villeneuve,1971,membership,http://www.wikidata.org/entity/Q154118,BMW Sauber,1,formula one team,1971-2000,['formula one team']
+http://www.wikidata.org/entity/Q172843,Jacques Villeneuve,1971,membership,http://www.wikidata.org/entity/Q171337,Williams Racing,2,formula one team | racecar constructor,1971-2000,"['formula one team', 'racecar constructor']"
+http://www.wikidata.org/entity/Q171355,Jaime Alguersuari,1990,membership,http://www.wikidata.org/entity/Q141818,Scuderia Toro Rosso,1,formula one team,1971-2000,['formula one team']
+http://www.wikidata.org/entity/Q1680121,James Calado,1989,membership,http://www.wikidata.org/entity/Q524242,Carlin Motorsport,1,auto racing team,1971-2000,['auto racing team']
+http://www.wikidata.org/entity/Q1680121,James Calado,1989,membership,http://www.wikidata.org/entity/Q1988831,AF Corse,1,auto racing team,1971-2000,['auto racing team']
+http://www.wikidata.org/entity/Q1680121,James Calado,1989,membership,http://www.wikidata.org/entity/Q296934,ART Grand Prix,1,auto racing team,1971-2000,['auto racing team']
+http://www.wikidata.org/entity/Q1680121,James Calado,1989,membership,http://www.wikidata.org/entity/Q2473436,Fortec Motorsport,1,auto racing team,1971-2000,['auto racing team']
+http://www.wikidata.org/entity/Q171350,Jarno Trulli,1974,membership,http://www.wikidata.org/entity/Q3001169,Team Lotus,1,sports club,1971-2000,['sports club']
+http://www.wikidata.org/entity/Q171479,Jean-Louis Schlesser,1948,membership,http://www.wikidata.org/entity/Q6792781,Maurer Motorsport (Germany),11,auto racing team,1941-1970,['auto racing team']
+http://www.wikidata.org/entity/Q171479,Jean-Louis Schlesser,1948,membership,http://www.wikidata.org/entity/Q171337,Williams Racing,22,formula one team | racecar constructor,1941-1970,"['formula one team', 'racecar constructor']"
+http://www.wikidata.org/entity/Q171479,Jean-Louis Schlesser,1948,membership,http://www.wikidata.org/entity/Q173104,RAM Racing,11,formula one team,1941-1970,['formula one team']
+http://www.wikidata.org/entity/Q171462,Jean-Pierre Jabouille,1942,membership,http://www.wikidata.org/entity/Q173306,Surtees,1,formula one team,1941-1970,['formula one team']
+http://www.wikidata.org/entity/Q171462,Jean-Pierre Jabouille,1942,membership,http://www.wikidata.org/entity/Q172722,Renault F1 Team,1,formula one team,1941-1970,['formula one team']
+http://www.wikidata.org/entity/Q10510,Jenson Button,1980,membership,http://www.wikidata.org/entity/Q171320,British American Racing,1,formula one team,1971-2000,['formula one team']
+http://www.wikidata.org/entity/Q10510,Jenson Button,1980,membership,http://www.wikidata.org/entity/Q172030,McLaren,2,formula one team | organization,1971-2000,"['formula one team', 'organization']"
+http://www.wikidata.org/entity/Q10510,Jenson Button,1980,membership,http://www.wikidata.org/entity/Q171329,Benetton Formula,1,formula one team,1971-2000,['formula one team']
+http://www.wikidata.org/entity/Q10510,Jenson Button,1980,membership,http://www.wikidata.org/entity/Q171337,Williams Racing,2,formula one team | racecar constructor,1971-2000,"['formula one team', 'racecar constructor']"
+http://www.wikidata.org/entity/Q10510,Jenson Button,1980,membership,http://www.wikidata.org/entity/Q17596,Brawn GP,1,formula one team,1971-2000,['formula one team']
+http://www.wikidata.org/entity/Q10510,Jenson Button,1980,membership,http://www.wikidata.org/entity/Q172722,Renault F1 Team,1,formula one team,1971-2000,['formula one team']
+http://www.wikidata.org/entity/Q172348,Jim Crawford,1948,membership,http://www.wikidata.org/entity/Q173996,Team Lotus,2,auto racing team | stable,1941-1970,"['auto racing team', 'stable']"
+http://www.wikidata.org/entity/Q172348,Jim Crawford,1948,membership,http://www.wikidata.org/entity/Q6411971,King Racing,1,auto racing team,1941-1970,['auto racing team']
+http://www.wikidata.org/entity/Q115685,Jo Vonlanthen,1942,membership,http://www.wikidata.org/entity/Q173415,Ensign Racing,1,formula one team,1941-1970,['formula one team']
+http://www.wikidata.org/entity/Q115685,Jo Vonlanthen,1942,membership,http://www.wikidata.org/entity/Q171337,Williams Racing,2,formula one team | racecar constructor,1941-1970,"['formula one team', 'racecar constructor']"
+http://www.wikidata.org/entity/Q173644,John Campbell-Jones,1930,membership,http://www.wikidata.org/entity/Q173553,Emeryson,1,formula one team,1911-1940,['formula one team']
+http://www.wikidata.org/entity/Q173644,John Campbell-Jones,1930,membership,http://www.wikidata.org/entity/Q7307836,Reg Parnell Racing,1,formula one team,1911-1940,['formula one team']
+http://www.wikidata.org/entity/Q172801,John Riseley-Prichard,1924,membership,http://www.wikidata.org/entity/Q780447,Rob Walker Racing Team,1,formula one team,1911-1940,['formula one team']
+http://www.wikidata.org/entity/Q3153,John Surtees,1934,membership,http://www.wikidata.org/entity/Q171342,Honda F1,2,auto racing team | formula one team,1911-1940,"['auto racing team', 'formula one team']"
+http://www.wikidata.org/entity/Q3153,John Surtees,1934,membership,http://www.wikidata.org/entity/Q169898,Scuderia Ferrari,1,formula one team,1911-1940,['formula one team']
+http://www.wikidata.org/entity/Q3153,John Surtees,1934,membership,http://www.wikidata.org/entity/Q173012,British Racing Motors,1,formula one team,1911-1940,['formula one team']
+http://www.wikidata.org/entity/Q3153,John Surtees,1934,membership,http://www.wikidata.org/entity/Q7307836,Reg Parnell Racing,1,formula one team,1911-1940,['formula one team']
+http://www.wikidata.org/entity/Q3153,John Surtees,1934,membership,http://www.wikidata.org/entity/Q173003,Cooper Car Company,2,automobile manufacturer | formula one team,1911-1940,"['automobile manufacturer', 'formula one team']"
+http://www.wikidata.org/entity/Q3153,John Surtees,1934,membership,http://www.wikidata.org/entity/Q173996,Team Lotus,2,auto racing team | stable,1911-1940,"['auto racing team', 'stable']"
+http://www.wikidata.org/entity/Q3153,John Surtees,1934,membership,http://www.wikidata.org/entity/Q173306,Surtees,1,formula one team,1911-1940,['formula one team']
+http://www.wikidata.org/entity/Q844226,Johnny Mauro,1910,membership,http://www.wikidata.org/entity/Q622489,Alfa Romeo Racing,2,formula one team | organization,1881-1910,"['formula one team', 'organization']"
+http://www.wikidata.org/entity/Q171767,Johnny Servoz-Gavin,1942,membership,http://www.wikidata.org/entity/Q173003,Cooper Car Company,2,automobile manufacturer | formula one team,1941-1970,"['automobile manufacturer', 'formula one team']"
+http://www.wikidata.org/entity/Q171767,Johnny Servoz-Gavin,1942,membership,http://www.wikidata.org/entity/Q171992,Tyrrell Racing,1,formula one team,1941-1970,['formula one team']
+http://www.wikidata.org/entity/Q171767,Johnny Servoz-Gavin,1942,membership,http://www.wikidata.org/entity/Q844092,Equipe Matra Sports,1,formula one team,1941-1970,['formula one team']
+http://www.wikidata.org/entity/Q171531,Joseph Siffert,1936,membership,http://www.wikidata.org/entity/Q173769,Scuderia Filipinetti,1,formula one team,1911-1940,['formula one team']
+http://www.wikidata.org/entity/Q171531,Joseph Siffert,1936,membership,http://www.wikidata.org/entity/Q173177,March Engineering,2,automobile manufacturer | formula one team,1911-1940,"['automobile manufacturer', 'formula one team']"
+http://www.wikidata.org/entity/Q171531,Joseph Siffert,1936,membership,http://www.wikidata.org/entity/Q173012,British Racing Motors,1,formula one team,1911-1940,['formula one team']
+http://www.wikidata.org/entity/Q171531,Joseph Siffert,1936,membership,http://www.wikidata.org/entity/Q780447,Rob Walker Racing Team,1,formula one team,1911-1940,['formula one team']
+http://www.wikidata.org/entity/Q171531,Joseph Siffert,1936,membership,http://www.wikidata.org/entity/Q10667466,Siffert Racing Team,1,formula one team,1911-1940,['formula one team']
+http://www.wikidata.org/entity/Q2069,Juan Manuel Fangio,1911,membership,http://www.wikidata.org/entity/Q2666342,Maserati,1,formula one team,1911-1940,['formula one team']
+http://www.wikidata.org/entity/Q2069,Juan Manuel Fangio,1911,membership,http://www.wikidata.org/entity/Q169898,Scuderia Ferrari,1,formula one team,1911-1940,['formula one team']
+http://www.wikidata.org/entity/Q2069,Juan Manuel Fangio,1911,membership,http://www.wikidata.org/entity/Q172721,Mercedes F1 Team,3,business | formula one team | organization,1911-1940,"['business', 'formula one team', 'organization']"
+http://www.wikidata.org/entity/Q2069,Juan Manuel Fangio,1911,membership,http://www.wikidata.org/entity/Q622489,Alfa Romeo Racing,2,formula one team | organization,1911-1940,"['formula one team', 'organization']"
+http://www.wikidata.org/entity/Q281294,Jules Bianchi,1989,membership,http://www.wikidata.org/entity/Q138933,Force India,1,formula one team,1971-2000,['formula one team']
+http://www.wikidata.org/entity/Q281294,Jules Bianchi,1989,membership,http://www.wikidata.org/entity/Q173179,Marussia F1,2,formula one team | stable,1971-2000,"['formula one team', 'stable']"
+http://www.wikidata.org/entity/Q281294,Jules Bianchi,1989,membership,http://www.wikidata.org/entity/Q169898,Scuderia Ferrari,1,formula one team,1971-2000,['formula one team']
+http://www.wikidata.org/entity/Q82798,Kamui Kobayashi,1986,membership,http://www.wikidata.org/entity/Q23885854,Sarrazin-Conway-Kobayashi,1,auto racing team,1971-2000,['auto racing team']
+http://www.wikidata.org/entity/Q63713,Karl Kling,1910,membership,http://www.wikidata.org/entity/Q1272349,Düsseldorfer Automobil- und Motorsport-Club 05,4,car club | charitable corporation | clan | motorsport club,1881-1910,"['car club', 'charitable corporation', 'clan', 'motorsport club']"
+http://www.wikidata.org/entity/Q172905,Karun Chandhok,1984,membership,http://www.wikidata.org/entity/Q23722770,JRM Racing,1,auto racing team,1971-2000,['auto racing team']
+http://www.wikidata.org/entity/Q171302,Kazuki Nakajima,1985,membership,http://www.wikidata.org/entity/Q22950181,Davidson-Buemi-Nakajima,1,auto racing team,1971-2000,['auto racing team']
+http://www.wikidata.org/entity/Q172815,Keith Greene,1938,membership,http://www.wikidata.org/entity/Q3312686,Gilby Engineering,1,formula one team,1911-1940,['formula one team']
+http://www.wikidata.org/entity/Q171381,Keke Rosberg,1948,membership,http://www.wikidata.org/entity/Q171337,Williams Racing,2,formula one team | racecar constructor,1941-1970,"['formula one team', 'racecar constructor']"
+http://www.wikidata.org/entity/Q171381,Keke Rosberg,1948,membership,http://www.wikidata.org/entity/Q172162,ATS F1,1,formula one team,1941-1970,['formula one team']
+http://www.wikidata.org/entity/Q171381,Keke Rosberg,1948,membership,http://www.wikidata.org/entity/Q172997,Walter Wolf Racing,1,formula one team,1941-1970,['formula one team']
+http://www.wikidata.org/entity/Q171381,Keke Rosberg,1948,membership,http://www.wikidata.org/entity/Q171665,Fittipaldi Automotive,1,formula one team,1941-1970,['formula one team']
+http://www.wikidata.org/entity/Q171381,Keke Rosberg,1948,membership,http://www.wikidata.org/entity/Q172030,McLaren,2,formula one team | organization,1941-1970,"['formula one team', 'organization']"
+http://www.wikidata.org/entity/Q171381,Keke Rosberg,1948,membership,http://www.wikidata.org/entity/Q11085064,Theodore Racing,1,formula one team,1941-1970,['formula one team']
+http://www.wikidata.org/entity/Q1740212,Kevin Magnussen,1992,membership,http://www.wikidata.org/entity/Q172030,McLaren,2,formula one team | organization,1971-2000,"['formula one team', 'organization']"
+http://www.wikidata.org/entity/Q1740212,Kevin Magnussen,1992,membership,http://www.wikidata.org/entity/Q16300222,Haas F1 Team,1,formula one team,1971-2000,['formula one team']
+http://www.wikidata.org/entity/Q1740212,Kevin Magnussen,1992,membership,http://www.wikidata.org/entity/Q172722,Renault F1 Team,1,formula one team,1971-2000,['formula one team']
+http://www.wikidata.org/entity/Q11192,Kimi Räikkönen,1979,membership,http://www.wikidata.org/entity/Q169898,Scuderia Ferrari,1,formula one team,1971-2000,['formula one team']
+http://www.wikidata.org/entity/Q11192,Kimi Räikkönen,1979,membership,http://www.wikidata.org/entity/Q173018,Lotus F1,1,formula one team,1971-2000,['formula one team']
+http://www.wikidata.org/entity/Q11192,Kimi Räikkönen,1979,membership,http://www.wikidata.org/entity/Q172030,McLaren,2,formula one team | organization,1971-2000,"['formula one team', 'organization']"
+http://www.wikidata.org/entity/Q11192,Kimi Räikkönen,1979,membership,http://www.wikidata.org/entity/Q622489,Alfa Romeo Racing,2,formula one team | organization,1971-2000,"['formula one team', 'organization']"
+http://www.wikidata.org/entity/Q11192,Kimi Räikkönen,1979,membership,http://www.wikidata.org/entity/Q171335,Sauber,2,formula one team | organization,1971-2000,"['formula one team', 'organization']"
+http://www.wikidata.org/entity/Q16238921,Lance Stroll,1998,membership,http://www.wikidata.org/entity/Q56245286,Racing Point F1 Team,1,formula one team,1971-2000,['formula one team']
+http://www.wikidata.org/entity/Q22007193,Lando Norris,1999,membership,http://www.wikidata.org/entity/Q172030,McLaren,2,formula one team | organization,1971-2000,"['formula one team', 'organization']"
+http://www.wikidata.org/entity/Q172795,Les Leston,1920,membership,http://www.wikidata.org/entity/Q173012,British Racing Motors,1,formula one team,1911-1940,['formula one team']
+http://www.wikidata.org/entity/Q172795,Les Leston,1920,membership,http://www.wikidata.org/entity/Q173003,Cooper Car Company,2,automobile manufacturer | formula one team,1911-1940,"['automobile manufacturer', 'formula one team']"
+http://www.wikidata.org/entity/Q172795,Les Leston,1920,membership,http://www.wikidata.org/entity/Q173536,Connaught Engineering,1,formula one team,1911-1940,['formula one team']
+http://www.wikidata.org/entity/Q172410,Leslie Thorne,1916,membership,http://www.wikidata.org/entity/Q3047147,Ecurie Ecosse,1,formula one team,1911-1940,['formula one team']
+http://www.wikidata.org/entity/Q9673,Lewis Hamilton,1985,membership,http://www.wikidata.org/entity/Q172030,McLaren,2,formula one team | organization,1971-2000,"['formula one team', 'organization']"
+http://www.wikidata.org/entity/Q9673,Lewis Hamilton,1985,membership,http://www.wikidata.org/entity/Q172721,Mercedes F1 Team,3,business | formula one team | organization,1971-2000,"['business', 'formula one team', 'organization']"
+http://www.wikidata.org/entity/Q173006,Lorenzo Bandini,1935,membership,http://www.wikidata.org/entity/Q169898,Scuderia Ferrari,1,formula one team,1911-1940,['formula one team']
+http://www.wikidata.org/entity/Q173006,Lorenzo Bandini,1935,membership,http://www.wikidata.org/entity/Q622489,Alfa Romeo Racing,2,formula one team | organization,1911-1940,"['formula one team', 'organization']"
+http://www.wikidata.org/entity/Q172783,Lucas Di Grassi,1984,membership,http://www.wikidata.org/entity/Q22955635,di Grassi-Duval-Jarvis,1,auto racing team,1971-2000,['auto racing team']
+http://www.wikidata.org/entity/Q173038,Luigi Fagioli,1898,membership,http://www.wikidata.org/entity/Q622489,Alfa Romeo Racing,2,formula one team | organization,1881-1910,"['formula one team', 'organization']"
+http://www.wikidata.org/entity/Q173379,Luis Pérez-Sala,1959,membership,http://www.wikidata.org/entity/Q142381,Minardi,2,formula one team | organization,1941-1970,"['formula one team', 'organization']"
+http://www.wikidata.org/entity/Q172053,Luiz Bueno,1937,membership,http://www.wikidata.org/entity/Q173306,Surtees,1,formula one team,1911-1940,['formula one team']
+http://www.wikidata.org/entity/Q975207,Marcus Ericsson,1990,membership,http://www.wikidata.org/entity/Q171335,Sauber,2,formula one team | organization,1971-2000,"['formula one team', 'organization']"
+http://www.wikidata.org/entity/Q171312,Mario Andretti,1940,membership,http://www.wikidata.org/entity/Q622489,Alfa Romeo Racing,2,formula one team | organization,1911-1940,"['formula one team', 'organization']"
+http://www.wikidata.org/entity/Q82667,Mark Webber,1976,membership,http://www.wikidata.org/entity/Q22939728,Bernhard-Webber-Hartley,1,auto racing team,1971-2000,['auto racing team']
+http://www.wikidata.org/entity/Q172624,Massimo Natili,1935,membership,http://www.wikidata.org/entity/Q173762,Scuderia Centro Sud,1,formula one team,1911-1940,['formula one team']
+http://www.wikidata.org/entity/Q171521,Mauro Baldi,1954,membership,http://www.wikidata.org/entity/Q622489,Alfa Romeo Racing,2,formula one team | organization,1941-1970,"['formula one team', 'organization']"
+http://www.wikidata.org/entity/Q613590,Max Chilton,1991,membership,http://www.wikidata.org/entity/Q173179,Marussia F1,2,formula one team | stable,1971-2000,"['formula one team', 'stable']"
+http://www.wikidata.org/entity/Q2239218,Max Verstappen,1997,membership,http://www.wikidata.org/entity/Q5483924,Van Amersfoort Racing,1,auto racing team,1971-2000,['auto racing team']
+http://www.wikidata.org/entity/Q2239218,Max Verstappen,1997,membership,http://www.wikidata.org/entity/Q141818,Scuderia Toro Rosso,1,formula one team,1971-2000,['formula one team']
+http://www.wikidata.org/entity/Q2239218,Max Verstappen,1997,membership,http://www.wikidata.org/entity/Q173663,Red Bull Racing,1,formula one team,1971-2000,['formula one team']
+http://www.wikidata.org/entity/Q61364,Michael Ammermüller,1986,membership,http://www.wikidata.org/entity/Q173663,Red Bull Racing,1,formula one team,1971-2000,['formula one team']
+http://www.wikidata.org/entity/Q61364,Michael Ammermüller,1986,membership,http://www.wikidata.org/entity/Q279692,A1 Team Germany,1,auto racing team,1971-2000,['auto racing team']
+http://www.wikidata.org/entity/Q9671,Michael Schumacher,1969,membership,http://www.wikidata.org/entity/Q169898,Scuderia Ferrari,1,formula one team,1941-1970,['formula one team']
+http://www.wikidata.org/entity/Q9671,Michael Schumacher,1969,membership,http://www.wikidata.org/entity/Q171329,Benetton Formula,1,formula one team,1941-1970,['formula one team']
+http://www.wikidata.org/entity/Q9671,Michael Schumacher,1969,membership,http://www.wikidata.org/entity/Q172721,Mercedes F1 Team,3,business | formula one team | organization,1941-1970,"['business', 'formula one team', 'organization']"
+http://www.wikidata.org/entity/Q9671,Michael Schumacher,1969,membership,http://www.wikidata.org/entity/Q171367,Jordan Grand Prix,1,formula one team,1941-1970,['formula one team']
+http://www.wikidata.org/entity/Q18119599,Mick Schumacher,1999,membership,http://www.wikidata.org/entity/Q16300222,Haas F1 Team,1,formula one team,1971-2000,['formula one team']
+http://www.wikidata.org/entity/Q18119599,Mick Schumacher,1999,membership,http://www.wikidata.org/entity/Q2115327,Prema Powerteam,1,auto racing team,1971-2000,['auto racing team']
+http://www.wikidata.org/entity/Q18119599,Mick Schumacher,1999,membership,http://www.wikidata.org/entity/Q172721,Mercedes F1 Team,3,business | formula one team | organization,1971-2000,"['business', 'formula one team', 'organization']"
+http://www.wikidata.org/entity/Q173599,Mike MacDowel,1932,membership,http://www.wikidata.org/entity/Q173003,Cooper Car Company,2,automobile manufacturer | formula one team,1911-1940,"['automobile manufacturer', 'formula one team']"
+http://www.wikidata.org/entity/Q172141,Mike Parkes,1931,membership,http://www.wikidata.org/entity/Q169898,Scuderia Ferrari,1,formula one team,1911-1940,['formula one team']
+http://www.wikidata.org/entity/Q172141,Mike Parkes,1931,membership,http://www.wikidata.org/entity/Q957511,Fry,1,auto racing team,1911-1940,['auto racing team']
+http://www.wikidata.org/entity/Q172570,Mike Sparken,1930,membership,http://www.wikidata.org/entity/Q173222,Gordini,2,auto racing team | automobile manufacturer,1911-1940,"['auto racing team', 'automobile manufacturer']"
+http://www.wikidata.org/entity/Q171729,Mike Spence,1936,membership,http://www.wikidata.org/entity/Q7307836,Reg Parnell Racing,1,formula one team,1911-1940,['formula one team']
+http://www.wikidata.org/entity/Q171729,Mike Spence,1936,membership,http://www.wikidata.org/entity/Q179686,Chaparral Cars,1,auto racing team,1911-1940,['auto racing team']
+http://www.wikidata.org/entity/Q171729,Mike Spence,1936,membership,http://www.wikidata.org/entity/Q173996,Team Lotus,2,auto racing team | stable,1911-1940,"['auto racing team', 'stable']"
+http://www.wikidata.org/entity/Q171729,Mike Spence,1936,membership,http://www.wikidata.org/entity/Q173553,Emeryson,1,formula one team,1911-1940,['formula one team']
+http://www.wikidata.org/entity/Q171729,Mike Spence,1936,membership,http://www.wikidata.org/entity/Q173012,British Racing Motors,1,formula one team,1911-1940,['formula one team']
+http://www.wikidata.org/entity/Q518344,Mikko Kozarowitzky,1948,membership,http://www.wikidata.org/entity/Q173104,RAM Racing,1,formula one team,1941-1970,['formula one team']
+http://www.wikidata.org/entity/Q172143,Moisés Solana,1935,membership,http://www.wikidata.org/entity/Q173762,Scuderia Centro Sud,1,formula one team,1911-1940,['formula one team']
+http://www.wikidata.org/entity/Q172143,Moisés Solana,1935,membership,http://www.wikidata.org/entity/Q173003,Cooper Car Company,2,automobile manufacturer | formula one team,1911-1940,"['automobile manufacturer', 'formula one team']"
+http://www.wikidata.org/entity/Q172143,Moisés Solana,1935,membership,http://www.wikidata.org/entity/Q173996,Team Lotus,2,auto racing team | stable,1911-1940,"['auto racing team', 'stable']"
+http://www.wikidata.org/entity/Q173420,Mário de Araújo Cabral,1934,membership,http://www.wikidata.org/entity/Q173762,Scuderia Centro Sud,1,formula one team,1911-1940,['formula one team']
+http://www.wikidata.org/entity/Q173420,Mário de Araújo Cabral,1934,membership,http://www.wikidata.org/entity/Q14913969,Derrington-Francis,2,formula one team | sports organization,1911-1940,"['formula one team', 'sports organization']"
+http://www.wikidata.org/entity/Q115552,Neel Jani,1983,membership,http://www.wikidata.org/entity/Q54917700,Lotterer-Senna-Jani,1,auto racing team,1971-2000,['auto racing team']
+http://www.wikidata.org/entity/Q115552,Neel Jani,1983,membership,http://www.wikidata.org/entity/Q22940028,Dumas-Jani-Lieb,1,auto racing team,1971-2000,['auto racing team']
+http://www.wikidata.org/entity/Q172838,Nelson Piquet Jr.,1985,membership,http://www.wikidata.org/entity/Q23885870,Prost-Piquet-Heidfeld,1,auto racing team,1971-2000,['auto racing team']
+http://www.wikidata.org/entity/Q75810,Nick Heidfeld,1977,membership,http://www.wikidata.org/entity/Q23885870,Prost-Piquet-Heidfeld,1,auto racing team,1971-2000,['auto racing team']
+http://www.wikidata.org/entity/Q76547,Nico Hülkenberg,1987,membership,http://www.wikidata.org/entity/Q172722,Renault F1 Team,1,formula one team,1971-2000,['formula one team']
+http://www.wikidata.org/entity/Q76547,Nico Hülkenberg,1987,membership,http://www.wikidata.org/entity/Q16300222,Haas F1 Team,1,formula one team,1971-2000,['formula one team']
+http://www.wikidata.org/entity/Q75820,Nico Rosberg,1985,membership,http://www.wikidata.org/entity/Q172721,Mercedes F1 Team,3,business | formula one team | organization,1971-2000,"['business', 'formula one team', 'organization']"
+http://www.wikidata.org/entity/Q75820,Nico Rosberg,1985,membership,http://www.wikidata.org/entity/Q171337,Williams Racing,2,formula one team | racecar constructor,1971-2000,"['formula one team', 'racecar constructor']"
+http://www.wikidata.org/entity/Q78489,Niki Lauda,1949,membership,http://www.wikidata.org/entity/Q173103,Brabham,1,formula one team,1941-1970,['formula one team']
+http://www.wikidata.org/entity/Q78489,Niki Lauda,1949,membership,http://www.wikidata.org/entity/Q173177,March Engineering,2,automobile manufacturer | formula one team,1941-1970,"['automobile manufacturer', 'formula one team']"
+http://www.wikidata.org/entity/Q78489,Niki Lauda,1949,membership,http://www.wikidata.org/entity/Q173012,British Racing Motors,1,formula one team,1941-1970,['formula one team']
+http://www.wikidata.org/entity/Q78489,Niki Lauda,1949,membership,http://www.wikidata.org/entity/Q169898,Scuderia Ferrari,1,formula one team,1941-1970,['formula one team']
+http://www.wikidata.org/entity/Q78489,Niki Lauda,1949,membership,http://www.wikidata.org/entity/Q172030,McLaren,2,formula one team | organization,1941-1970,"['formula one team', 'organization']"
+http://www.wikidata.org/entity/Q22008968,Nikita Mazepin,1999,membership,http://www.wikidata.org/entity/Q16300222,Haas F1 Team,1,formula one team,1971-2000,['formula one team']
+http://www.wikidata.org/entity/Q507452,Oliver Gavin,1972,membership,http://www.wikidata.org/entity/Q1883077,Mad-Croc Racing,1,auto racing team,1971-2000,['auto racing team']
+http://www.wikidata.org/entity/Q507452,Oliver Gavin,1972,membership,http://www.wikidata.org/entity/Q2998151,Pratt & Miller,2,business | sports organization,1971-2000,"['business', 'sports organization']"
+http://www.wikidata.org/entity/Q172142,Olivier Gendebien,1924,membership,http://www.wikidata.org/entity/Q987562,Ecurie Nationale Belge,1,formula one team,1911-1940,['formula one team']
+http://www.wikidata.org/entity/Q172142,Olivier Gendebien,1924,membership,http://www.wikidata.org/entity/Q8052439,Yeoman Credit Racing,1,auto racing team,1911-1940,['auto racing team']
+http://www.wikidata.org/entity/Q172142,Olivier Gendebien,1924,membership,http://www.wikidata.org/entity/Q172148,British Racing Partnership,1,formula one team,1911-1940,['formula one team']
+http://www.wikidata.org/entity/Q172142,Olivier Gendebien,1924,membership,http://www.wikidata.org/entity/Q169898,Scuderia Ferrari,1,formula one team,1911-1940,['formula one team']
+http://www.wikidata.org/entity/Q82845,Pastor Maldonado,1985,membership,http://www.wikidata.org/entity/Q173018,Lotus F1,1,formula one team,1971-2000,['formula one team']
+http://www.wikidata.org/entity/Q82845,Pastor Maldonado,1985,membership,http://www.wikidata.org/entity/Q171337,Williams Racing,2,formula one team | racecar constructor,1971-2000,"['formula one team', 'racecar constructor']"
+http://www.wikidata.org/entity/Q82845,Pastor Maldonado,1985,membership,http://www.wikidata.org/entity/Q172722,Renault F1 Team,1,formula one team,1971-2000,['formula one team']
+http://www.wikidata.org/entity/Q171611,Patrick Depailler,1944,membership,http://www.wikidata.org/entity/Q622489,Alfa Romeo Racing,2,formula one team | organization,1941-1970,"['formula one team', 'organization']"
+http://www.wikidata.org/entity/Q172187,Patrick Nève,1949,membership,http://www.wikidata.org/entity/Q173415,Ensign Racing,1,formula one team,1941-1970,['formula one team']
+http://www.wikidata.org/entity/Q172187,Patrick Nève,1949,membership,http://www.wikidata.org/entity/Q171337,Williams Racing,2,formula one team | racecar constructor,1941-1970,"['formula one team', 'racecar constructor']"
+http://www.wikidata.org/entity/Q172187,Patrick Nève,1949,membership,http://www.wikidata.org/entity/Q173104,RAM Racing,1,formula one team,1941-1970,['formula one team']
+http://www.wikidata.org/entity/Q60886,Paul Pietsch,1911,membership,http://www.wikidata.org/entity/Q622489,Alfa Romeo Racing,2,formula one team | organization,1911-1940,"['formula one team', 'organization']"
+http://www.wikidata.org/entity/Q369348,Perry McCarthy,1961,membership,http://www.wikidata.org/entity/Q173293,Andrea Moda Formula,1,formula one team,1941-1970,['formula one team']
+http://www.wikidata.org/entity/Q173456,Peter Arundell,1933,membership,http://www.wikidata.org/entity/Q173996,Team Lotus,2,auto racing team | stable,1911-1940,"['auto racing team', 'stable']"
+http://www.wikidata.org/entity/Q171891,Peter Walker,1912,membership,http://www.wikidata.org/entity/Q173536,Connaught Engineering,1,formula one team,1911-1940,['formula one team']
+http://www.wikidata.org/entity/Q171891,Peter Walker,1912,membership,http://www.wikidata.org/entity/Q173012,British Racing Motors,1,formula one team,1911-1940,['formula one team']
+http://www.wikidata.org/entity/Q714594,Piero Dusio,1899,membership,http://www.wikidata.org/entity/Q1422,Juventus FC,4,association football club | business | men's association football team | public company,1881-1910,"['association football club', 'business', ""men's association football team"", 'public company']"
+http://www.wikidata.org/entity/Q11816647,Pierre Gasly,1996,membership,http://www.wikidata.org/entity/Q141818,Scuderia Toro Rosso,1,formula one team,1971-2000,['formula one team']
+http://www.wikidata.org/entity/Q11816647,Pierre Gasly,1996,membership,http://www.wikidata.org/entity/Q173663,Red Bull Racing,1,formula one team,1971-2000,['formula one team']
+http://www.wikidata.org/entity/Q11816647,Pierre Gasly,1996,membership,http://www.wikidata.org/entity/Q98930155,Alpine F1 Team,2,formula one team | organization,1971-2000,"['formula one team', 'organization']"
+http://www.wikidata.org/entity/Q160359,Q160359,1984,membership,http://www.wikidata.org/entity/Q622489,Alfa Romeo Racing,38,formula one team | organization,1971-2000,"['formula one team', 'organization']"
+http://www.wikidata.org/entity/Q172057,Reg Parnell,1911,membership,http://www.wikidata.org/entity/Q622489,Alfa Romeo Racing,2,formula one team | organization,1911-1940,"['formula one team', 'organization']"
+http://www.wikidata.org/entity/Q172759,Riccardo Patrese,1954,membership,http://www.wikidata.org/entity/Q622489,Alfa Romeo Racing,2,formula one team | organization,1941-1970,"['formula one team', 'organization']"
+http://www.wikidata.org/entity/Q172194,Richard Attwood,1940,membership,http://www.wikidata.org/entity/Q7307836,Reg Parnell Racing,1,formula one team,1911-1940,['formula one team']
+http://www.wikidata.org/entity/Q172194,Richard Attwood,1940,membership,http://www.wikidata.org/entity/Q173003,Cooper Car Company,2,automobile manufacturer | formula one team,1911-1940,"['automobile manufacturer', 'formula one team']"
+http://www.wikidata.org/entity/Q172194,Richard Attwood,1940,membership,http://www.wikidata.org/entity/Q173996,Team Lotus,2,auto racing team | stable,1911-1940,"['auto racing team', 'stable']"
+http://www.wikidata.org/entity/Q172194,Richard Attwood,1940,membership,http://www.wikidata.org/entity/Q173012,British Racing Motors,1,formula one team,1911-1940,['formula one team']
+http://www.wikidata.org/entity/Q171512,Robert Manzon,1917,membership,http://www.wikidata.org/entity/Q169898,Scuderia Ferrari,1,formula one team,1911-1940,['formula one team']
+http://www.wikidata.org/entity/Q171512,Robert Manzon,1917,membership,http://www.wikidata.org/entity/Q173222,Gordini,2,auto racing team | automobile manufacturer,1911-1940,"['auto racing team', 'automobile manufacturer']"
+http://www.wikidata.org/entity/Q171512,Robert Manzon,1917,membership,http://www.wikidata.org/entity/Q2246685,Scuderia Lancia,2,formula one team | sports organization,1911-1940,"['formula one team', 'sports organization']"
+http://www.wikidata.org/entity/Q172499,Roberto Bussinello,1927,membership,http://www.wikidata.org/entity/Q173762,Scuderia Centro Sud,1,formula one team,1911-1940,['formula one team']
+http://www.wikidata.org/entity/Q172499,Roberto Bussinello,1927,membership,http://www.wikidata.org/entity/Q21290613,Alec Mildren racing,1,auto racing team,1911-1940,['auto racing team']
+http://www.wikidata.org/entity/Q172369,Robin Montgomerie-Charrington,1915,membership,http://www.wikidata.org/entity/Q173485,Aston Butterworth,1,auto racing team,1911-1940,['auto racing team']
+http://www.wikidata.org/entity/Q172224,Roelof Wunderink,1948,membership,http://www.wikidata.org/entity/Q173415,Ensign Racing,1,formula one team,1941-1970,['formula one team']
+http://www.wikidata.org/entity/Q78495,Roland Ratzenberger,1960,membership,http://www.wikidata.org/entity/Q172976,Simtek,1,formula one team,1941-1970,['formula one team']
+http://www.wikidata.org/entity/Q78495,Roland Ratzenberger,1960,membership,http://www.wikidata.org/entity/Q992504,Brun Motorsport,1,auto racing team,1941-1970,['auto racing team']
+http://www.wikidata.org/entity/Q78495,Roland Ratzenberger,1960,membership,http://www.wikidata.org/entity/Q7388751,Sigma Advanced Racing Development,1,auto racing team,1941-1970,['auto racing team']
+http://www.wikidata.org/entity/Q82742,Romain Grosjean,1986,membership,http://www.wikidata.org/entity/Q16300222,Haas F1 Team,1,formula one team,1971-2000,['formula one team']
+http://www.wikidata.org/entity/Q172479,Ron Flockhart,1923,membership,http://www.wikidata.org/entity/Q3047147,Ecurie Ecosse,1,formula one team,1911-1940,['formula one team']
+http://www.wikidata.org/entity/Q172479,Ron Flockhart,1923,membership,http://www.wikidata.org/entity/Q173003,Cooper Car Company,2,automobile manufacturer | formula one team,1911-1940,"['automobile manufacturer', 'formula one team']"
+http://www.wikidata.org/entity/Q172479,Ron Flockhart,1923,membership,http://www.wikidata.org/entity/Q173536,Connaught Engineering,1,formula one team,1911-1940,['formula one team']
+http://www.wikidata.org/entity/Q172479,Ron Flockhart,1923,membership,http://www.wikidata.org/entity/Q173996,Team Lotus,2,auto racing team | stable,1911-1940,"['auto racing team', 'stable']"
+http://www.wikidata.org/entity/Q172479,Ron Flockhart,1923,membership,http://www.wikidata.org/entity/Q173012,British Racing Motors,1,formula one team,1911-1940,['formula one team']
+http://www.wikidata.org/entity/Q173280,Ronnie Peterson,1944,membership,http://www.wikidata.org/entity/Q11085064,Theodore Racing,1,formula one team,1941-1970,['formula one team']
+http://www.wikidata.org/entity/Q173280,Ronnie Peterson,1944,membership,http://www.wikidata.org/entity/Q173996,Team Lotus,2,auto racing team | stable,1941-1970,"['auto racing team', 'stable']"
+http://www.wikidata.org/entity/Q173280,Ronnie Peterson,1944,membership,http://www.wikidata.org/entity/Q171992,Tyrrell Racing,1,formula one team,1941-1970,['formula one team']
+http://www.wikidata.org/entity/Q173280,Ronnie Peterson,1944,membership,http://www.wikidata.org/entity/Q173177,March Engineering,2,automobile manufacturer | formula one team,1941-1970,"['automobile manufacturer', 'formula one team']"
+http://www.wikidata.org/entity/Q171717,Roy Salvadori,1922,membership,http://www.wikidata.org/entity/Q173012,British Racing Motors,1,formula one team,1911-1940,['formula one team']
+http://www.wikidata.org/entity/Q171717,Roy Salvadori,1922,membership,http://www.wikidata.org/entity/Q7307836,Reg Parnell Racing,1,formula one team,1911-1940,['formula one team']
+http://www.wikidata.org/entity/Q171717,Roy Salvadori,1922,membership,http://www.wikidata.org/entity/Q173536,Connaught Engineering,1,formula one team,1911-1940,['formula one team']
+http://www.wikidata.org/entity/Q171717,Roy Salvadori,1922,membership,http://www.wikidata.org/entity/Q173003,Cooper Car Company,2,automobile manufacturer | formula one team,1911-1940,"['automobile manufacturer', 'formula one team']"
+http://www.wikidata.org/entity/Q171717,Roy Salvadori,1922,membership,http://www.wikidata.org/entity/Q3312686,Gilby Engineering,1,formula one team,1911-1940,['formula one team']
+http://www.wikidata.org/entity/Q171717,Roy Salvadori,1922,membership,http://www.wikidata.org/entity/Q173093,Vanwall,1,formula one team,1911-1940,['formula one team']
+http://www.wikidata.org/entity/Q153242,Sam Bird,1987,membership,http://www.wikidata.org/entity/Q22978783,G-Drive Racing #26,1,auto racing team,1971-2000,['auto racing team']
+http://www.wikidata.org/entity/Q172493,Sam Tingle,1921,membership,http://www.wikidata.org/entity/Q7691500,Team Gunston,1,formula one team,1911-1940,['formula one team']
+http://www.wikidata.org/entity/Q42311,Sebastian Vettel,1987,membership,http://www.wikidata.org/entity/Q750016,Aston Martin Racing,1,auto racing team,1971-2000,['auto racing team']
+http://www.wikidata.org/entity/Q42311,Sebastian Vettel,1987,membership,http://www.wikidata.org/entity/Q141818,Scuderia Toro Rosso,1,formula one team,1971-2000,['formula one team']
+http://www.wikidata.org/entity/Q42311,Sebastian Vettel,1987,membership,http://www.wikidata.org/entity/Q173663,Red Bull Racing,1,formula one team,1971-2000,['formula one team']
+http://www.wikidata.org/entity/Q42311,Sebastian Vettel,1987,membership,http://www.wikidata.org/entity/Q169898,Scuderia Ferrari,1,formula one team,1971-2000,['formula one team']
+http://www.wikidata.org/entity/Q42311,Sebastian Vettel,1987,membership,http://www.wikidata.org/entity/Q154118,BMW Sauber,1,formula one team,1971-2000,['formula one team']
+http://www.wikidata.org/entity/Q544206,Sergey Sirotkin,1995,membership,http://www.wikidata.org/entity/Q171337,Williams Racing,2,formula one team | racecar constructor,1971-2000,"['formula one team', 'racecar constructor']"
+http://www.wikidata.org/entity/Q82805,Sergio Pérez,1990,membership,http://www.wikidata.org/entity/Q173663,Red Bull Racing,1,formula one team,1971-2000,['formula one team']
+http://www.wikidata.org/entity/Q57435,Stefan Bellof,1957,membership,http://www.wikidata.org/entity/Q480255,Kremer Racing,1,auto racing team,1941-1970,['auto racing team']
+http://www.wikidata.org/entity/Q57435,Stefan Bellof,1957,membership,http://www.wikidata.org/entity/Q992504,Brun Motorsport,1,auto racing team,1941-1970,['auto racing team']
+http://www.wikidata.org/entity/Q57435,Stefan Bellof,1957,membership,http://www.wikidata.org/entity/Q171992,Tyrrell Racing,1,formula one team,1941-1970,['formula one team']
+http://www.wikidata.org/entity/Q57435,Stefan Bellof,1957,membership,http://www.wikidata.org/entity/Q6792781,Maurer Motorsport (Germany),1,auto racing team,1941-1970,['auto racing team']
+http://www.wikidata.org/entity/Q173317,Stéphane Sarrazin,1975,membership,http://www.wikidata.org/entity/Q23885854,Sarrazin-Conway-Kobayashi,1,auto racing team,1971-2000,['auto racing team']
+http://www.wikidata.org/entity/Q268192,Susie Wolff,1982,membership,http://www.wikidata.org/entity/Q972026,Persson Motorsport,1,auto racing team,1971-2000,['auto racing team']
+http://www.wikidata.org/entity/Q268192,Susie Wolff,1982,membership,http://www.wikidata.org/entity/Q4352479,Alan Docking Racing,1,auto racing team,1971-2000,['auto racing team']
+http://www.wikidata.org/entity/Q268192,Susie Wolff,1982,membership,http://www.wikidata.org/entity/Q171337,Williams Racing,2,formula one team | racecar constructor,1971-2000,"['formula one team', 'racecar constructor']"
+http://www.wikidata.org/entity/Q268192,Susie Wolff,1982,membership,http://www.wikidata.org/entity/Q73596,Mücke Motorsport,1,auto racing team,1971-2000,['auto racing team']
+http://www.wikidata.org/entity/Q171310,Sébastien Buemi,1988,membership,http://www.wikidata.org/entity/Q22950181,Davidson-Buemi-Nakajima,1,auto racing team,1971-2000,['auto racing team']
+http://www.wikidata.org/entity/Q172001,Tiago Monteiro,1976,membership,http://www.wikidata.org/entity/Q22958306,Team ByKolles #4,1,auto racing team,1971-2000,['auto racing team']
+http://www.wikidata.org/entity/Q172001,Tiago Monteiro,1976,membership,http://www.wikidata.org/entity/Q6107728,JAS Motorsport,1,auto racing team,1971-2000,['auto racing team']
+http://www.wikidata.org/entity/Q171499,Tim Schenken,1943,membership,http://www.wikidata.org/entity/Q1078831,Trojan-Tauranac Racing,2,formula one team | sports club,1941-1970,"['formula one team', 'sports club']"
+http://www.wikidata.org/entity/Q172793,Tom Bridger,1934,membership,http://www.wikidata.org/entity/Q172148,British Racing Partnership,1,formula one team,1911-1940,['formula one team']
+http://www.wikidata.org/entity/Q61832,Toni Ulmen,1906,membership,http://www.wikidata.org/entity/Q1272349,Düsseldorfer Automobil- und Motorsport-Club 05,4,car club | charitable corporation | clan | motorsport club,1881-1910,"['car club', 'charitable corporation', 'clan', 'motorsport club']"
+http://www.wikidata.org/entity/Q171481,Tony Brooks,1932,membership,http://www.wikidata.org/entity/Q173093,Vanwall,1,formula one team,1911-1940,['formula one team']
+http://www.wikidata.org/entity/Q171481,Tony Brooks,1932,membership,http://www.wikidata.org/entity/Q173012,British Racing Motors,1,formula one team,1911-1940,['formula one team']
+http://www.wikidata.org/entity/Q171481,Tony Brooks,1932,membership,http://www.wikidata.org/entity/Q169898,Scuderia Ferrari,1,formula one team,1911-1940,['formula one team']
+http://www.wikidata.org/entity/Q171830,Tony Maggs,1937,membership,http://www.wikidata.org/entity/Q173762,Scuderia Centro Sud,1,formula one team,1911-1940,['formula one team']
+http://www.wikidata.org/entity/Q171830,Tony Maggs,1937,membership,http://www.wikidata.org/entity/Q7307836,Reg Parnell Racing,1,formula one team,1911-1940,['formula one team']
+http://www.wikidata.org/entity/Q171830,Tony Maggs,1937,membership,http://www.wikidata.org/entity/Q173003,Cooper Car Company,2,automobile manufacturer | formula one team,1911-1940,"['automobile manufacturer', 'formula one team']"
+http://www.wikidata.org/entity/Q509740,Tony Trimmer,1943,membership,http://www.wikidata.org/entity/Q172197,Maki Engineering,1,formula one team,1941-1970,['formula one team']
+http://www.wikidata.org/entity/Q173160,Toranosuke Takagi,1974,membership,http://www.wikidata.org/entity/Q174176,Arrows,2,formula one team | stable,1971-2000,"['formula one team', 'stable']"
+http://www.wikidata.org/entity/Q173160,Toranosuke Takagi,1974,membership,http://www.wikidata.org/entity/Q171992,Tyrrell Racing,1,formula one team,1971-2000,['formula one team']
+http://www.wikidata.org/entity/Q115778,Toulo de Graffenried,1914,membership,http://www.wikidata.org/entity/Q622489,Alfa Romeo Racing,2,formula one team | organization,1911-1940,"['formula one team', 'organization']"
+http://www.wikidata.org/entity/Q173442,Trevor Taylor,1936,membership,http://www.wikidata.org/entity/Q173996,Team Lotus,2,auto racing team | stable,1911-1940,"['auto racing team', 'stable']"
+http://www.wikidata.org/entity/Q173442,Trevor Taylor,1936,membership,http://www.wikidata.org/entity/Q172148,British Racing Partnership,1,formula one team,1911-1940,['formula one team']
+http://www.wikidata.org/entity/Q173442,Trevor Taylor,1936,membership,http://www.wikidata.org/entity/Q1077805,Shannon Racing Cars,2,formula one team | sports organization,1911-1940,"['formula one team', 'sports organization']"
+http://www.wikidata.org/entity/Q138745,Valtteri Bottas,1989,membership,http://www.wikidata.org/entity/Q171337,Williams Racing,2,formula one team | racecar constructor,1971-2000,"['formula one team', 'racecar constructor']"
+http://www.wikidata.org/entity/Q138745,Valtteri Bottas,1989,membership,http://www.wikidata.org/entity/Q28450077,Mercedes AMG F1 W08 EQ Power+,1,racing automobile model,1971-2000,['racing automobile model']
+http://www.wikidata.org/entity/Q138745,Valtteri Bottas,1989,membership,http://www.wikidata.org/entity/Q622489,Alfa Romeo Racing,2,formula one team | organization,1971-2000,"['formula one team', 'organization']"
+http://www.wikidata.org/entity/Q82901,Vitaly Petrov,1984,membership,http://www.wikidata.org/entity/Q23895082,Petrov-Ladygin-Shaitar,1,auto racing team,1971-2000,['auto racing team']
+http://www.wikidata.org/entity/Q171294,Vitantonio Liuzzi,1980,membership,http://www.wikidata.org/entity/Q22958306,Team ByKolles #4,1,auto racing team,1971-2000,['auto racing team']
+http://www.wikidata.org/entity/Q171533,Vittorio Brambilla,1937,membership,http://www.wikidata.org/entity/Q622489,Alfa Romeo Racing,2,formula one team | organization,1911-1940,"['formula one team', 'organization']"
+http://www.wikidata.org/entity/Q538467,Will Stevens,1991,membership,http://www.wikidata.org/entity/Q174008,Caterham F1,1,formula one team,1971-2000,['formula one team']
+http://www.wikidata.org/entity/Q538467,Will Stevens,1991,membership,http://www.wikidata.org/entity/Q5061750,P1 Motorsport,1,auto racing team,1971-2000,['auto racing team']
+http://www.wikidata.org/entity/Q538467,Will Stevens,1991,membership,http://www.wikidata.org/entity/Q2267054,Manor Motorsport,1,auto racing team,1971-2000,['auto racing team']
+http://www.wikidata.org/entity/Q538467,Will Stevens,1991,membership,http://www.wikidata.org/entity/Q3500017,Strakka Racing,1,auto racing team,1971-2000,['auto racing team']
+http://www.wikidata.org/entity/Q538467,Will Stevens,1991,membership,http://www.wikidata.org/entity/Q524242,Carlin Motorsport,1,auto racing team,1971-2000,['auto racing team']
+http://www.wikidata.org/entity/Q173296,Wilson Fittipaldi Júnior,1943,membership,http://www.wikidata.org/entity/Q173103,Brabham,1,formula one team,1941-1970,['formula one team']
+http://www.wikidata.org/entity/Q173296,Wilson Fittipaldi Júnior,1943,membership,http://www.wikidata.org/entity/Q171665,Fittipaldi Automotive,1,formula one team,1941-1970,['formula one team']
+http://www.wikidata.org/entity/Q59209579,Yuki Tsunoda,2000,membership,http://www.wikidata.org/entity/Q2079949,Red Bull Junior Team,3,auto racing team | driver development program | sports team,1971-2000,"['auto racing team', 'driver development program', 'sports team']"
+http://www.wikidata.org/entity/Q59209579,Yuki Tsunoda,2000,membership,http://www.wikidata.org/entity/Q173663,Red Bull Racing,1,formula one team,1971-2000,['formula one team']
+http://www.wikidata.org/entity/Q59209579,Yuki Tsunoda,2000,membership,http://www.wikidata.org/entity/Q124350606,RB Formula One Team,2,formula one team | organization,1971-2000,"['formula one team', 'organization']"

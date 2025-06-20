@@ -1,0 +1,25 @@
+,typesOrg,orgMainType,number,numberOrg
+12,formula one team,racing team,221,1
+1,auto racing team,racing team,72,1
+14,formula one team | organization,racing team,53,2
+8,automobile manufacturer | formula one team,racing team,22,2
+15,formula one team | racecar constructor,racing team,22,2
+7,auto racing team | stable,racing team,17,2
+9,business | formula one team | organization,racing team,6,3
+18,formula one team | stable,racing team,5,2
+2,auto racing team | automobile manufacturer,racing team,4,2
+17,formula one team | sports organization,racing team,3,2
+21,sports club,not classified organisation,2,1
+11,car club | charitable corporation | clan | motorsport club,not classified organisation,2,4
+5,auto racing team | formula one team,racing team,2,2
+4,auto racing team | driver development program | sports team,racing team,1,3
+0,association football club | business | men's association football team | public company,company or gov. agency,1,4
+3,auto racing team | automobile manufacturer | business | sub-brand,racing team,1,4
+6,auto racing team | formula one team | racecar constructor | stable,racing team,1,4
+10,business | sports organization,company or gov. agency,1,2
+13,formula one team | motorcycle racing team,racing team,1,2
+16,formula one team | sports club,racing team,1,2
+19,organization,not classified organisation,1,1
+20,racing automobile model,not classified organisation,1,1
+22,sports team,not classified organisation,1,1
+23,stable,racing team,1,1
