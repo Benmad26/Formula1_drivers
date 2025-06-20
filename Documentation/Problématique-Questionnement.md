@@ -8,7 +8,8 @@ En adoptant une démarche exploratoire, il s'agit de proposer un modèle du cham
 
 1. Quelle est la répartition des effectifs de naissance par lieu d’origine ?  
 2. Quelle est la distribution spatiale des naissances (carte choroplèthe) ?  
-3. Comment cette distribution géographique évolue-t-elle dans le temps ?  
+3. Comment cette distribution géographique évolue-t-elle dans le temps ?
+4. Types d'organisations associées aux pilotes de F1 selon les périodes
 
 
 
