@@ -127,4 +127,55 @@ Cette carte de chaleur montre l'écart à l'indépendance statistique entre type
 - Certains résultats peuvent être biaisés par la complétude variable des données Wikidata.
 - La catégorisation "not classified" peut masquer une grande variété de cas réels.
 
+# Question 5 : Profils géoculturels et métiers des personnalités liées à la F1 selon les périodes
+
+## 1. Contexte et objectif
+Explorer les liens entre le **continent d'origine** et les **profils professionnels** (pilotes, médias, autres) des personnalités associées à la Formule 1, selon les grandes périodes du XXe siècle.
+
+**Enjeu** : comprendre la construction géoculturelle du sport automobile mondial, ses dynamiques de représentation et ses biais.
+
+## 2. Méthodologie de production
+- **Classification croisée** : croisement des professions avec les continents d'origine dans une variable composite `disc_cont` (ex. `Europe_driver`).
+- **Périodes** : regroupement par quart de siècle (`1901–1925`, `1926–1950`, etc.).
+- **Test du chi²** sur la table de contingence puis visualisation des **résidus standardisés** sous forme de heatmap.
+
+## 3. Illustration
+
+![Heatmap métiers x continents](../../Notebooks_jupyther/wikidata_exploration/images/metiers.png)
+
+## 4. Interprétation
+La carte de chaleur met en évidence les profils professionnels et continentaux **sur- ou sous-représentés** par période.
+
+### 1901–1925 :
+- Forte surreprésentation de **NorthAmerica_other** (+7.2)
+- Sous-représentation des métiers liés à la course automobile en dehors de l'Europe
+- 🧐 Période pionnière, où les profils techniques ou industriels américains jouent un rôle fort
+
+### 1926–1950 :
+- Pic de **Africa_other** (+3.7) et **Europe_driver** (+3.0)
+- Recul de **Asia_other** (–2.3)
+- 💡 Affirmation européenne du sport auto ; premiers pilotes africains ?
+
+### 1951–1975 :
+- Forte **surreprésentation des Europe_driver** (+3.9)
+- ❌ Forte **sous-représentation de NorthAmerica_other** (–4.9)
+- 📊 Période d’hégémonie européenne dans la F1 naissante
+
+### 1976–2000 :
+- Montée de **Asia_driver** (+4.8) et **Europe_other** (+3.5)
+- Continuité de la sous-représentation nord-américaine non sportive (–4.5)
+- 🤝 Tendance à la diversification géographique des profils dans la sphère F1
+
+## 5. Bilan
+- Le graphique révèle une évolution des **dynamiques géoculturelles** dans l'entourage de la F1.
+- Une **domination européenne persistante** mais remise en question par la montée de profils asiatiques ou africains.
+- Mise en évidence d’une **sous-représentation américaine** hors domaine sportif.
+
+## 6. Limites
+- Catégories professionnelles simplifiées ("driver", "other", etc.).
+- Le regroupement continental peut masquer des dynamiques nationales.
+- Les données peuvent être incomplètes ou biaisées selon la disponibilité Wikidata.
+
+---
+
 
