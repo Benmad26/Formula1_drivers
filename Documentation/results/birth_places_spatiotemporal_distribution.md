@@ -48,7 +48,7 @@ Objectif : visualiser la distribution géographique des naissances selon les con
 
 
 ## 4. Interprétation  
-- **Continent dominant** : Asie (> 50 %).  
+- **Continent dominant** : Europe.  
 - **Écarts relatifs** : Afrique sous-représentée (biais de couverture).  
 - **Facteurs** : population, priorité éditoriale de Wikidata.
 
