@@ -1,14 +1,22 @@
-<<<<<<< HEAD
 ,periods,relaType,orgMainType,period_members_number
-0,1881-1910,membership,company or gov. agency,1
-1,1881-1910,membership,not classified organisation,2
-2,1881-1910,membership,racing team,9
-3,1911-1940,membership,racing team,148
-4,1941-1970,membership,not classified organisation,1
-5,1941-1970,membership,racing team,142
-6,1971-2000,membership,company or gov. agency,1
-7,1971-2000,membership,not classified organisation,4
-8,1971-2000,membership,racing team,134
-=======
-
->>>>>>> 7f33d01994f9643ab4de9cb11ea72dddcd942c2c
+0,1751-1810,membership,company or gov. agency,0
+1,1751-1810,membership,not classified organisation,0
+2,1751-1810,membership,racing team,0
+3,1811-1850,membership,company or gov. agency,0
+4,1811-1850,membership,not classified organisation,0
+5,1811-1850,membership,racing team,0
+6,1851-1880,membership,company or gov. agency,0
+7,1851-1880,membership,not classified organisation,0
+8,1851-1880,membership,racing team,0
+9,1881-1910,membership,company or gov. agency,1
+10,1881-1910,membership,not classified organisation,2
+11,1881-1910,membership,racing team,9
+12,1911-1940,membership,company or gov. agency,0
+13,1911-1940,membership,not classified organisation,0
+14,1911-1940,membership,racing team,148
+15,1941-1970,membership,company or gov. agency,0
+16,1941-1970,membership,not classified organisation,1
+17,1941-1970,membership,racing team,142
+18,1971-2000,membership,company or gov. agency,1
+19,1971-2000,membership,not classified organisation,4
+20,1971-2000,membership,racing team,134
