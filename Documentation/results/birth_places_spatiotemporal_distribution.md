@@ -78,22 +78,7 @@ Objectif : visualiser la distribution géographique des naissances selon les con
 - **Limites** : biais de complétude, décalage d’enregistrement.
 
 ---
-# Question 4 : Types d'organisations associées aux pilotes de F1 selon les périodes
 
-## 1. Contexte et objectif
-
-Analyser l'évolution des types d’organisations (employeurs, équipes, sponsors) associées aux pilotes de Formule 1 selon les périodes historiques.
-
-**Enjeu** : comprendre la professionnalisation du sport automobile et l'évolution de ses acteurs institutionnels.
-
-## 2. Méthodologie de production
-
-- **Données** : issue de Wikidata via SPARQL, extraction des entités liées aux pilotes.
-- **Regroupement temporel** : les périodes ont été regroupées en grands intervalles (1881–1910, 1911–1940, etc.).
-- **Classification** : typologie des organisations ("racing team", "company or gov. agency", etc.).
-- **Analyse** : tableau de contingence croisée, test du chi², puis visualisation des résidus standardisés via une heatmap.
-
-## 3. Illustration
 
 # Question 4 : Types d'organisations associées aux pilotes de F1 selon les périodes
 
@@ -112,24 +97,7 @@ Analyser l'évolution des types d’organisations (employeurs, équipes, sponsor
 
 ## 3. Illustration
 
-# Question 4 : Types d'organisations associées aux pilotes de F1 selon les périodes
-
-## 1. Contexte et objectif
-
-Analyser l'évolution des types d’organisations (employeurs, équipes, sponsors) associées aux pilotes de Formule 1 selon les périodes historiques.
-
-**Enjeu** : comprendre la professionnalisation du sport automobile et l'évolution de ses acteurs institutionnels.
-
-## 2. Méthodologie de production
-
-- **Données** : issue de Wikidata via SPARQL, extraction des entités liées aux pilotes.
-- **Regroupement temporel** : les périodes ont été regroupées en grands intervalles (1881–1910, 1911–1940, etc.).
-- **Classification** : typologie des organisations ("racing team", "company or gov. agency", etc.).
-- **Analyse** : tableau de contingence croisée, test du chi², puis visualisation des résidus standardisés via une heatmap.
-
-## 3. Illustration
-
-![Heatmap](../../Notebooks_jupyther/wikidata_exploration/images/Chi2_plot.png)
+![Chi2_plot](../../Notebooks_jupyther/wikidata_exploration/images/Chi2_plot.png)
 
 ## 4. Interprétation
 
