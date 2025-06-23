@@ -62,22 +62,39 @@ Objectif : visualiser la distribution géographique des naissances selon les con
 Étudier comment la part de chaque continent évolue au fil des années.  
 **Enjeu** : voir les dynamiques relatives (rattrapage, convergence/divergence).
 
-## 2. Méthodologie de production  
-- **Extraction conjointe** : exécuter les cellules 4 à 8 de `wdt_distribution_naissances_triplestore.ipynb` modifiées pour inclure le continent.  
-- **Pivot temporel** : exécuter la cellule 9 pour obtenir une table “année × continent”.  
-- **Préparation des small multiples** : cellules 10 à 12 pour tracer un graphique par continent (ou créer une animation).
+## 2. Méthodologie de production
+
+- **Extraction conjointe** : récupération des personnes avec lieu et date de naissance depuis Wikidata, jointes à leur continent.
+- **Périodes historiques** : regroupement des dates en tranches (`1951–1975`, `1976–2000`).
+- **Construction d’une table de contingence** : croisement entre période et continent.
+- **Test du χ² d’indépendance** : mesure des écarts entre effectifs observés et attendus.
+- **Visualisation des résidus standardisés** : heatmap colorée (rouge = surreprésentation, bleu = sous-représentation).
+
+---
 
 ## 3. Illustration  
 
 ![Heatmap](../../Notebooks_jupyther/wikidata_exploration/images/heatmap.jpg)
 
-## 4. Interprétation  
-- **Points de bascule** : années où l’Afrique dépasse l’Europe (ex. 1980).  
-- **Trajectoires** : croissance plus rapide en Asie et Afrique 1950–2000.  
-- **Limites** : biais de complétude, décalage d’enregistrement.
+## 4. Interprétation
 
----
+| Période        | Continent(s) surreprésenté(s) | Continent(s) sous-représenté(s) | Analyse |
+|----------------|-------------------------------|----------------------------------|---------|
+| **1951–1975**  | Afrique (+1.8)                | Amérique du Nord (–4.9), Asie (–2.1) | Europe domine ; début de montée africaine |
+| **1976–2000**  | Asie (+3.6), Afrique (+1.2)   | Amérique du Nord (–2.3)          | Diversification géographique claire |
+| **Total**      | Asie (+2.1)                   | Amérique du Nord (–3.2), Amérique du Sud (–1.2) | L’Asie apparaît désormais dominante dans les données |
 
+### Lecture des couleurs :
+- 🔴 **Rouge** = plus d’enregistrements que prévu (surreprésentation)
+- 🔵 **Bleu** = moins que prévu (sous-représentation)
+- ⚪ **Blanc** = absence d’écart significatif (proche de l’indépendance)
+
+### Points clés :
+- **Bascule progressive** des pôles de naissance : de l’Europe vers l’Asie et l’Afrique après 1975.
+- **Sous-représentation persistante** de l’Amérique du Nord, probablement liée à un biais de couverture dans Wikidata.
+- **L’Europe reste globalement stable**, proche des effectifs attendus.
+
+--
 
 # Question 4 : Types d'organisations associées aux pilotes de F1 selon les périodes
 
