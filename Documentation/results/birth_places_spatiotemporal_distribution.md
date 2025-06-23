@@ -223,29 +223,34 @@ Explorer la structure relationnelle du sport automobile en analysant :
 - **Équipes** : chaque équipe a eu en moyenne **2.87** pilotes.
 
 
-### Équipes avec le plus de pilotes :
-Williams Racing: 23 pilotes
-Scuderia Ferrari: 23 pilotes
-Alfa Romeo Racing: 23 pilotes
-McLaren: 20 pilotes
-Team Lotus: 19 pilotes
-British Racing Motors: 15 pilotes
-Cooper Car Company: 13 pilotes
-Renault F1 Team: 11 pilotes
-Scuderia Centro Sud: 10 pilotes
-Brabham: 10 pilotes
+### Équipes avec le plus de pilotes
 
-### Pilotes avec le plus d'équipes :
-:   13 équipes
-Denny Hulme: 9 équipes
-Henri Pescarolo: 8 équipes
-Graham Hill: 7 équipes
-Bruno Giacomelli: 7 équipes
-Arturo Merzario: 7 équipes
-John Surtees: 7 équipes
-Jacky Ickx: 6 équipes
-Roy Salvadori: 6 équipes
-Keke Rosberg: 6 équipes
+1. **Williams Racing** : 23 pilotes  
+2. **Scuderia Ferrari** : 23 pilotes  
+3. **Alfa Romeo Racing** : 23 pilotes  
+4. **McLaren** : 20 pilotes  
+5. **Team Lotus** : 19 pilotes  
+6. **British Racing Motors** : 15 pilotes  
+7. **Cooper Car Company** : 13 pilotes  
+8. **Renault F1 Team** : 11 pilotes  
+9. **Scuderia Centro Sud** : 10 pilotes  
+10. **Brabham** : 10 pilotes  
+
+---
+
+### Pilotes ayant couru pour le plus d’équipes
+
+1. *(Nom manquant)* : 13 équipes  
+2. **Denny Hulme** : 9 équipes  
+3. **Henri Pescarolo** : 8 équipes  
+4. **Graham Hill** : 7 équipes  
+5. **Bruno Giacomelli** : 7 équipes  
+6. **Arturo Merzario** : 7 équipes  
+7. **John Surtees** : 7 équipes  
+8. **Jacky Ickx** : 6 équipes  
+9. **Roy Salvadori** : 6 équipes  
+10. **Keke Rosberg** : 6 équipes  
+
 
 
 ## 4. Interprétation
