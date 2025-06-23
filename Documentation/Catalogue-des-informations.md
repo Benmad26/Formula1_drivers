@@ -4,59 +4,59 @@
 
 ### 1. Personne (Pilote de F1)
 
-Les propriétés d'une **personne** dans le contexte des **pilotes de F1** pourraient être les suivantes :
+Les propriétés d'une **personne** dans le contexte des pilotes de Formule 1 exploitées dans ce projet sont :
 
-| Propriété            | Description                                         |
-|----------------------|-----------------------------------------------------|
-| **nom**              | Nom complet du pilote                               |
-| **date de naissance**| Date de naissance du pilote (ex. : 07-01-1985)      |
-| **lieu de naissance**| Lieu de naissance du pilote (ex. : Stevenage, Royaume-Uni) |
-| **origine**          | Nationalité (ex. : britannique)                     |
-| **occupation**       | Occupation (ex. : Pilote de F1, ancien pilote, etc.)|
-
-
+| Propriété              | Description                                                  |
+|------------------------|--------------------------------------------------------------|
+| **nom**                | Nom complet du pilote (ex. : Lewis Hamilton)                 |
+| **date de naissance**  | Date de naissance (extraite de Wikidata)                     |
+| **lieu de naissance**  | Ville/pays de naissance (utilisé dans les analyses spatiales)|
+| **continent d’origine**| Dérivé du lieu (Europe, Asie, etc.), utilisé pour les comparaisons |
+| **occupation**         | Fonction dans Wikidata (Pilote de F1, parfois multiple)      |
 
 ---
 
 ### 2. Organisation (Écurie de F1)
 
-Les écuries de F1 sont des **organisations** et auront des propriétés comme :
+Les écuries, modélisées comme **organisations**, ont été analysées via leurs relations avec les pilotes :
 
-| Propriété           | Description                                         |
-|---------------------|-----------------------------------------------------|
-| **nom**             | Nom de l’écurie                                     |
-| **type**            | Type de l’organisation (ex. : Écurie de F1)         |
-| **siège**           | Lieu de siège de l’écurie (ex. : Brackley, Royaume-Uni) |
-| **fondation**       | Année de fondation de l’écurie                      |
+| Propriété           | Description                                                |
+|---------------------|------------------------------------------------------------|
+| **nom**             | Nom officiel de l’écurie (ex. : Ferrari, McLaren)          |
+| **type**            | Type d’organisation (ex. : racing team)                    |
+| *(autres propriétés comme le siège ou la date de fondation n’ont pas été exploitées ici)* |
 
+---
 
-### 3. Lieu (Lieu de naissance et lieux de courses)
+### 3. Lieu (Lieu de naissance)
 
-Les **lieux** peuvent représenter les lieux de naissance des pilotes et/ou les lieux des **circuits de F1**. Les propriétés peuvent être :
+Les **lieux** ont été utilisés uniquement pour les naissances, avec :
 
-| Propriété             | Description                           |
-|-----------------------|---------------------------------------|
-| **nom**               | Nom du lieu (ex. : Stevenage)         |
-| **type**              | Type de lieu (ex. : Ville, Circuit de F1) |
-| **coordonnées géographiques** | Latitude et longitude du lieu      |
+| Propriété                  | Description                          |
+|----------------------------|--------------------------------------|
+| **nom**                    | Nom de la ville ou du pays           |
+| **type**                   | Ville, région ou pays                |
+| **continent**              | Continent dérivé du lieu (ex. : Europe) |
 
-
+---
 
 ## Relations entre objets
 
-Les **relations** entre ces objets sont essentielles pour montrer les connexions entre les pilotes, les écuries, les lieux, et les publications. Voici quelques exemples de relations qui pourraient être utilisées dans ton projet :
+Les relations effectivement exploitées dans l’analyse sont les suivantes :
 
 ### 1. **Personne est née dans Lieu**
-Chaque pilote a un **lieu de naissance**, et cette relation peut être exprimée comme suit :
-  
-### 2. **Personne a 0 ou plusieurs victoires**
-Chaque pilote a pontentiellement gagné ou pas des courses
+Relation utilisée pour cartographier la répartition spatiale des naissances.
 
-### 3. **Personne est membre de Organisation**
-Cette relation montre quel pilote est associé à quelle **écurie** :
+### 2. **Personne est membre de Organisation**
+Relation clé pour le graphe biparti pilote ↔ écurie.
 
-## 4. **Personne a participé à 1 ou plusieurs courses
-Chaque pilote a participé à 1 ou plusieurs courses
+### 3. **Organisation est liée à plusieurs personnes**
+Chaque écurie est connectée à un ou plusieurs pilotes au cours du temps.
+
+### 4. **Personne appartient à un continent / période**
+Utilisé pour analyser les profils géoculturels dans le temps.
+
+---
 
 
 
