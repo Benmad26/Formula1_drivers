@@ -108,8 +108,9 @@ Analyser l'évolution des types d’organisations (employeurs, équipes, sponsor
 
 - **Données** : issue de Wikidata via SPARQL, extraction des entités liées aux pilotes.
 - **Regroupement temporel** : les périodes ont été regroupées en grands intervalles (1881–1910, 1911–1940, etc.).
-- **Classification** : typologie des organisations ("racing team", "company or gov. agency", etc.).
-- **Analyse** : tableau de contingence croisée, test du chi², puis visualisation des résidus standardisés via une heatmap.
+- **Classification** : typologie des organisations ("racing team", "company or gov. agency", "not classified organisation").
+- **Analyse** : tableau de contingence croisée, test du χ², puis visualisation des résidus standardisés via une heatmap.
+
 
 ## 3. Illustration
 
