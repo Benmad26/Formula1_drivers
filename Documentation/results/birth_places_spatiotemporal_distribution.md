@@ -19,9 +19,8 @@ Nous souhaitons analyser l’évolution annuelle du nombre de naissances issues 
 
 
 ## 4. Interprétation  
-- **Pic majeur** : autour de 1946–1964 (baby-boom).  
-- **Creux** : périodes de guerre (1914–1918, 1939–1945).  
-- **Tendance générale** : croissance nette après 1950, plateau depuis les années 2000.
+- **Pic majeur** : autour de 1911–1940 (baby-boom).   
+- **Tendance générale** :  plateau depuis les années 1970.
 
 ---
 
