@@ -10,7 +10,8 @@ En adoptant une démarche exploratoire, il s'agit de proposer un modèle du cham
 2. Quelle est la distribution spatiale des naissances (carte choroplèthe) ?  
 3. Comment cette distribution géographique évolue-t-elle dans le temps ?
 4. Types d'organisations associées aux pilotes de F1 selon les périodes ?
-5. Question 5 : Profils géoculturels et métiers des personnalités liées à la F1 selon les périodes ?
+5. Profils géoculturels et métiers des personnalités liées à la F1 selon les périodes ?
+6. Nombre d'équipes par pilote et de pilotes par équipe ?
 
 
 
