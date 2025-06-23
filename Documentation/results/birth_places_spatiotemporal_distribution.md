@@ -177,5 +177,73 @@ La carte de chaleur met en évidence les profils professionnels et continentaux 
 - Les données peuvent être incomplètes ou biaisées selon la disponibilité Wikidata.
 
 ---
+# Question 6 : Nombre d'équipes par pilote et de pilotes par équipe
 
+## 1. Contexte et objectif
+
+Explorer la structure relationnelle du sport automobile en analysant :
+- combien d'équipes un pilote a connues,
+- combien de pilotes une équipe a accueillis.
+
+**Enjeu** : détecter les dynamiques de fidélité, de rotation ou de longévité des carrières et des écuries dans l’univers de la Formule 1.
+
+## 2. Méthodologie de production
+
+- **Requête SPARQL** : extraction depuis Wikidata de tous les liens directs entre pilotes et équipes (propriété `wdt:P54`).
+- **Construction d’un graphe biparti** : nœuds de type `pilote` et `équipe`, liés s’ils ont été associés.
+- **Analyse des degrés** :
+  - Degré d’un pilote = nombre d’équipes associées.
+  - Degré d’une équipe = nombre de pilotes enregistrés.
+- **Mesures produites** :
+  - Moyenne des degrés.
+  - Classements des pilotes et équipes les plus connectés.
+
+## 3. Résultats
+
+### Moyenne des degrés
+
+- **Pilotes** : chaque pilote a couru pour environ **2.42** équipes en moyenne.
+- **Équipes** : chaque équipe a eu en moyenne **2.87** pilotes.
+
+
+### Équipes avec le plus de pilotes :
+Williams Racing: 23 pilotes
+Scuderia Ferrari: 23 pilotes
+Alfa Romeo Racing: 23 pilotes
+McLaren: 20 pilotes
+Team Lotus: 19 pilotes
+British Racing Motors: 15 pilotes
+Cooper Car Company: 13 pilotes
+Renault F1 Team: 11 pilotes
+Scuderia Centro Sud: 10 pilotes
+Brabham: 10 pilotes
+
+### Pilotes avec le plus d'équipes :
+:   13 équipes
+Denny Hulme: 9 équipes
+Henri Pescarolo: 8 équipes
+Graham Hill: 7 équipes
+Bruno Giacomelli: 7 équipes
+Arturo Merzario: 7 équipes
+John Surtees: 7 équipes
+Jacky Ickx: 6 équipes
+Roy Salvadori: 6 équipes
+Keke Rosberg: 6 équipes
+
+
+## 4. Interprétation
+
+- Plusieurs équipes affichent un nombre similaire de pilotes (~23), ce qui reflète à la fois leur longévité sportive et une bonne complétude des données Wikidata.
+- La présence en tête d’**Alfa Romeo Racing** peut surprendre, mais s’explique probablement par le regroupement d'entités historiques sous ce nom dans Wikidata.
+- Des équipes historiques comme **Team Lotus** ou **BRM** confirment leur rôle dans les décennies passées, malgré leur disparition aujourd’hui.
+- Les écuries modernes peuvent apparaître plus bas du fait de leur stabilité ou d’une carrière longue de certains pilotes (ex. Hamilton chez Mercedes).
+- La majorité des pilotes ont couru pour **2 à 3 équipes**, tandis que peu dépassent les 5.
+
+## 5. Limites
+
+- **Variation de nom** : certaines équipes changent de nom ou de structure au fil du temps (ex. Sauber → Alfa Romeo), ce qui peut fausser les comptes.
+- **Fusion ou éclatement** de données : Wikidata peut regrouper ou séparer arbitrairement certaines entités.
+- Les relations pilotes-équipes doivent être **explicitement renseignées** pour apparaître, ce qui crée un biais si certaines périodes sont moins documentées.
+
+---
 
