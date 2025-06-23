@@ -67,7 +67,7 @@ Objectif : visualiser la distribution géographique des naissances selon les con
 - **Pivot temporel** : exécuter la cellule 9 pour obtenir une table “année × continent”.  
 - **Préparation des small multiples** : cellules 10 à 12 pour tracer un graphique par continent (ou créer une animation).
 
-## 3. Illustrations  
+## 3. Illustration  
 
 ![Heatmap](../../Notebooks_jupyther/wikidata_exploration/images/heatmap.jpg)
 
