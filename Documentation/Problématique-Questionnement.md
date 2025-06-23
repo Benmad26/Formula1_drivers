@@ -17,22 +17,17 @@ En adoptant une démarche exploratoire, il s'agit de proposer un modèle du cham
 
 ## Aspects de l'information à collecter
 
- 
-- Pays et ville de naissance  
-- Nationalité(s)  
-- Milieu social et origines familiales (famille impliquée dans le sport automobile ou non)  
-- Parents célèbres ou influents dans le sport   
-- Études académiques (si pertinentes)  
-- Formations spécifiques au sport automobile (écoles de karting, académies de jeunes pilotes)  
-- Influence des systèmes nationaux d’entraînement (ex. : la France et la FFSA, le Royaume-Uni et la filière britannique)  
-- Engagements associatifs ou humanitaires  
-- Passion pour d’autres sports (ex. : aviation, golf, cyclisme)  
-- Vie publique et engagements politiques   
-- Autobiographies et biographies  
-- Livres techniques sur la course et le pilotage  
-- Contributions à des revues spécialisées en sport automobile   
-- Écuries de Formule 1 (avec dates et performances)  
- 
+
+- **Lieu de naissance** (pays, ville)  
+- **Période de naissance**  
+- **Continent d’origine**  
+-  **Métier ou rôle dans la F1** (ex. pilote, autres)  
+- **Type d’organisation associée** (racing team, entreprise, etc.)  
+- **Réseau pilotes ↔ équipes**  
+
+
+
+
 
  
  
