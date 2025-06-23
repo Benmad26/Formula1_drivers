@@ -48,7 +48,7 @@ Objectif : visualiser la distribution géographique des naissances selon les con
 
 ## 4. Interprétation  
 - **Continent dominant** : Europe.  
-- **Écarts relatifs** : Afrique sous-représentée (biais de couverture).  
+- **Écarts relatifs** : Afrique sous-représentée.  
 - **Facteurs** : population, priorité éditoriale de Wikidata.
 
 ---
