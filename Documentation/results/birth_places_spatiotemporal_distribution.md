@@ -78,12 +78,10 @@ Objectif : visualiser la distribution géographique des naissances selon les con
 
 ## 4. Interprétation
 
-| Période        | Continent(s) surreprésenté(s) | Continent(s) sous-représenté(s) | Analyse |
-|----------------|-------------------------------|----------------------------------|---------|
-| **1951–1975**  | Afrique (+1.8)                | Amérique du Nord (–4.9), Asie (–2.1) | Europe domine ; début de montée africaine |
-| **1976–2000**  | Asie (+3.6), Afrique (+1.2)   | Amérique du Nord (–2.3)          | Diversification géographique claire |
-| **Total**      | Asie (+2.1)                   | Amérique du Nord (–3.2), Amérique du Sud (–1.2) | L’Asie apparaît désormais dominante dans les données |
-
+| Période        | Continent(s) surreprésenté(s) | Continent(s) sous-représenté(s) |
+|----------------|-------------------------------|----------------------------------|
+| **1951–1975**  | Amérique (+1.8), , Asie (2.1)                | Amérique du Nord (–4.9) | 
+| **1976–2000**  | Asie (+3.6)  | Amérique du Nord (–3.3)          |
 ### Lecture des couleurs :
 - 🔴 **Rouge** = plus d’enregistrements que prévu (surreprésentation)
 - 🔵 **Bleu** = moins que prévu (sous-représentation)
